@@ -659,6 +659,70 @@ Therefore, helping employees understand their role and the impact they have on t
 
 ---
 
+### Question 24
+*What action about a non-conformity is required?*
+
+- a) Report who is responsible for the non-conformity
+- b) Make sure the non-conformity doesn't happen again
+- c) **Corrective Action**
+- d) Record impact of the non-conformity
+
+**Correct Answer:** c) Corrective Action
+
+*Explanation:* The correct answer is **c) Corrective Action**.
+
+When a nonconformity occurs, the organisation must react and take action to control and correct it, and deal with the consequences. The organisation must then evaluate the need for action to eliminate the causes of the nonconformity, in order that it does not recur or occur elsewhere.
+
+This involves:
+*   Reviewing the nonconformity.
+*   Determining the causes of the nonconformity.
+*   Determining if similar nonconformities exist, or could potentially occur.
+*   Implementing any action needed.
+*   Reviewing the effectiveness of any corrective action taken.
+*   Making changes to the information security management system if necessary.
+
+Corrective actions should be appropriate to the effects of the nonconformities encountered. Documented information must be available as evidence of the nature of the nonconformities and any subsequent actions taken, as well as the results of any corrective action.
+
+The organisation should also confirm that the nonconformity and corrective action includes taking action to correct the situation, examine the cause and determine if other occurrences exist or potentially exist elsewhere so that action can be taken to prevent recurrence. The organisation's response should cover evaluation of the action taken to confirm that the intended result was achieved, and evaluation of the ISMS to determine if changes are warranted to avoid future occurrences of similar nonconformities.
+
+---
+
+### Question 25
+*Which of the following should appear in the risk treatment plan?*
+
+- a) When is the audit of the risk treatment plan scheduled
+- b) **Who is responsible to implement the controls**
+- c) Who should review the risk treatment plan
+- d) The residual risk after the treatment
+
+**Correct Answer:** b) Who is responsible to implement the controls
+
+*Explanation:* The correct answer is **b) Who is responsible to implement the controls**.
+
+A risk treatment plan should include:
+*   **The risk that is being addressed** and its level according to the assessment.
+*   **The actions proposed to treat the risk**.
+*   **Who is in charge of implementing the actions**.
+*   Resources (budget).
+*   Timeframe for implementation.
+
+Additionally, the risk treatment plan should include or link to:
+* The risk(s) that the plan addresses
+* Necessary control(s)
+* How the necessary controls are expected to modify the risk so that the risk acceptance criteria are met
+* The risk owners
+* Selected risk treatment option(s)
+* The implementation status of necessary controls
+* The reasons for selection of treatment options, including expected benefits to be gained
+* Proposed actions including responsible individuals, timeframes, and schedule
+* Resource requirements including contingencies
+* Performance measures and constraints
+* Reporting and monitoring
+
+While the residual risk is related to the risk treatment process, it is not explicitly included in the risk treatment plan itself. The residual risk is the remaining risk after treatment actions are applied and needs to be evaluated similarly to the initial process to see if it falls into the acceptable category. If it does not, new treatment should be decided.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
