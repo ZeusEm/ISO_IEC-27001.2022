@@ -1,6 +1,10 @@
 # ISO 27001:2022
 
-## Foundation Exam - Question Bank
+## Notes - ISO 27001:2022 Clauses
+
+
+
+## Question Bank - Foundation Exam
 
 ### Question 1
 *Anything that has value to the organization is known as?*
@@ -396,7 +400,7 @@ In summary, a top-level information security policy is meant to be a guiding pri
 
 **Correct Answer:** d) Event
 
-*Explanation:* Based on the provided sources, the most accurate completion of the sentence is: An information security incident is a security **event** that has a significant probability of compromising information security.
+*Explanation:* Based on the standard, the most accurate completion of the sentence is: An information security incident is a security **event** that has a significant probability of compromising information security.
 
 Here's why, with a detailed explanation drawing from the sources:
 
@@ -434,7 +438,7 @@ Therefore, based on the definitions and distinctions made in the sources, the mo
 
 **Correct Answer:** c) Internal Audit
 
-*Explanation:* Based on the sources provided and our conversation history, the most accurate answer is **internal audit** has nonconformities as an output.
+*Explanation:* Based on the standard, the most accurate answer is **internal audit** has nonconformities as an output.
 
 Here's a detailed breakdown:
 
@@ -454,6 +458,81 @@ Therefore, while risk assessment and risk identification are crucial for an ISMS
 
 ---
 
+### Question 16
+*Which of the following is part of risk assessment?*
+
+- a) **Assign an owner to the risk**
+- b) Treat the risk
+- c) Transfer the risk
+- d) Mitigate the risk
+
+**Correct Answer:** a) Assign an owner to the risk
+
+*Explanation:* The question asks which of the provided options is part of risk assessment. According to the sources, the risk assessment process involves several key steps.
+
+*   **Risk assessment** is the overall process of identifying, analysing, and evaluating risks.
+    *   **Risk identification** is the process of finding, recognising, and describing risks, involving the identification of risk sources, events, their causes, and their potential consequences. This can include historical data, theoretical analysis, informed and expert opinions, and stakeholders' needs.
+    *   **Risk analysis** is the process of understanding the nature of risk and determining its level. This includes assessing the potential consequences and the likelihood of the risk occurring.
+    *  **Risk evaluation** involves comparing the results of risk analysis with risk criteria to determine if the risk is acceptable. This process assists in decisions about risk treatment.
+*   **Risk treatment** is the process of modifying risk and can involve avoiding the risk, removing the source, changing the likelihood or consequences, or sharing or retaining the risk.
+
+Looking at the provided options:
+
+*   **a) Assign an owner to the risk**: Assigning risk owners is a key part of the **risk assessment** process. Risk owners are accountable for the management of the risks.
+*   **b) Treat the risk**: Risk treatment is a separate step that follows risk assessment.
+*   **c) Transfer the risk**: Transferring risk is a risk treatment option, not a step in risk assessment.
+*   **d) Mitigate the risk**: Mitigating risk is a risk treatment option, which is a way of dealing with an identified risk.
+
+Therefore, the most correct answer is **a) Assign an owner to the risk** as this is a component of the risk assessment process.
+
+---
+
+### Question 17
+*Which responsibility and authority the top management is required to assign?*
+
+- a) Auditing the ISMS at regular intervals
+- b) **Ensuring the ISMS conforms to ISO 27001 requirements**
+- c) Implementing information security controls
+- d) Documenting all ISMS activities
+
+**Correct Answer:** b) Ensuring the ISMS conforms to ISO 27001 requirements
+
+*Explanation:* The question asks what responsibility and authority top management is required to assign. According to the standard, top management has specific obligations regarding the Information Security Management System (ISMS).
+
+Here's an analysis of the options:
+
+*   **a) Auditing the ISMS at regular intervals**: While internal audits are a crucial part of an ISMS, the responsibility for *conducting* these audits is not what top management is specifically required to assign. Top management is responsible for ensuring that an audit programme exists, but not for the actual execution of audits.
+*   **b) Ensuring the ISMS conforms to ISO 27001 requirements**: Top management *is* required to assign the responsibility and authority for ensuring that the ISMS conforms to the requirements of the ISO/IEC 27001 standard. This is a core requirement of the standard, as it ensures that the ISMS is properly implemented and maintained.
+*   **c) Implementing information security controls**: Although the implementation of information security controls is a critical part of the ISMS, top management is not directly required to assign the *implementation* responsibility. This is typically delegated to other roles within the organisation. Top management's role is to ensure that necessary resources are provided and that the ISMS is effective.
+*   **d) Documenting all ISMS activities**: Documenting ISMS activities is essential, but top management is not required to assign the responsibility for *all* documentation. Top management has the responsibility for ensuring that documented information is created and controlled, but the actual documentation activities may be delegated.
+
+Therefore, the most correct answer is **b) Ensuring the ISMS conforms to ISO 27001 requirements**. Top management must delegate the responsibility and authority to someone to ensure that the ISMS is compliant with the standard. This includes making sure all requirements of the standard are met.
+
+---
+
+### Question 18
+*Which of the following is part of ISMS Scope?*
+
+- a) Number of Computers
+- b) Capabilities of IT Department
+- c) **Locations of Information**
+- d) Business Processes of the Organisation
+
+**Correct Answer:** c) Locations of Information
+
+*Explanation:* The question asks what is included in the scope of an Information Security Management System (ISMS). According to the standard, the scope of an ISMS defines its boundaries and applicability within an organisation. It is important to consider several factors when defining the scope of an ISMS.
+
+Analysing the given options:
+
+*   **a) Number of Computers**: While the number of computers might be relevant to an IT asset inventory, it does not define the scope of the ISMS itself. The scope is about what areas of the business are covered by the ISMS, not about specific assets.
+*   **b) Capabilities of IT Department**: The capabilities of the IT department are more about resources and competencies, and not about the boundaries of the ISMS.
+*   **c) Locations of Information**: The location of information is a relevant consideration when defining the scope of the ISMS. The scope should clarify the physical and informational boundaries of the ISMS. This can include the physical address or region where information is processed or stored and the types of assets at each location.
+*   **d) Business Processes of the Organisation**: The business processes are a core element of the ISMS scope. The ISMS scope is applicable to all the departments wherever information is processed, either manually or electronically. The scope should define which departments or functions are included.
+
+Therefore, the most correct answer is **c) Locations of Information** because it directly relates to defining the boundaries of where the ISMS applies. While business processes are also important, the question asks for "part of the ISMS scope," making locations a more direct and definitive answer. The scope must also consider the interfaces and dependencies between the organisation's activities and those of other parties.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
@@ -465,6 +544,6 @@ Therefore, while risk assessment and risk identification are crucial for an ISMS
 ## References
 
 1. [Foundation: Q3](https://www.iso27001security.com/html/27001.html)
-2. [Foundation: Q7]([https://www.iso27001security.com/html/27001.html](https://www.isms.online/glossary/information-security-continuity/))
+2. [Foundation: Q7](https://www.isms.online/glossary/information-security-continuity/)
 
 ---
