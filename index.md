@@ -2,7 +2,12 @@
 
 ## Notes - ISO 27001:2022 Clauses
 
-
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5320.jpg)
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5381.jpg)
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5385.jpg)
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5386.jpg)
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5387.jpg)
+![Whiteboard Notes](https://github.com/ZeusEm/ISO-27001-2022/blob/main/whiteboardNotes/IMG_5388.jpg)
 
 ## Question Bank - Foundation Exam
 
