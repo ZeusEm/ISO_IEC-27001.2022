@@ -607,6 +607,58 @@ Therefore, the most correct answer is **b) Keeping records as evidence of compet
 
 ---
 
+### Question 22
+*Which of the following is an output of the ISMS internal audit?*
+
+- a) **Observations**
+- b) Reviewed Risks
+- c) Threat
+- d) Vulnerabilities
+
+**Correct Answer:** a) Observations
+
+*Explanation:* The correct option is **a) Observations**.
+
+Here's why:
+
+*   **Internal audits** are conducted to assess whether an organisation's Information Security Management System (ISMS) conforms to requirements and is effectively implemented.
+*   During audits, information is gathered through various methods, including **observations**, interviews and review of documents. This information is verified and recorded as audit evidence.
+*   The results of an internal audit are reported to the relevant management and can include nonconformities and corrective actions.
+*   While audits may consider risks and vulnerabilities in an ISMS, these are not outputs of the audit itself, but rather components of the ISMS that are being examined.
+*   The output of an internal audit is an audit report which contains findings based on gathered evidence which can include observations.
+
+Therefore, while risk and vulnerability information might be considered during the audit process, **observations** are a key output of the ISMS internal audit.
+
+---
+
+### Question 23
+*Complete the sentence: Helping employees understand their role and the impact they have on the ISMS is a form of ? which is part of the support that top management should demonstrate to the ISMS*
+
+- a) Communication
+- b) Competencies
+- c) **Awareness**
+- d) Resources
+
+**Correct Answer:** c) Awareness
+
+*Explanation:* The correct answer is **c) Awareness**.
+
+Here's why:
+
+*   **Top management** is responsible for demonstrating leadership and commitment to the ISMS. This includes ensuring that employees understand their roles and impact on the ISMS.
+
+*   **Awareness** programs are designed to ensure that individuals understand the information security policy, their contribution to the ISMS, and the implications of not conforming to ISMS requirements. **Helping employees understand their role and the impact they have on the ISMS is a key part of awareness training**.
+
+*   While **communication** is also a crucial part of ISMS, it is a broader term that encompasses the mechanisms for conveying information, while **awareness** is specifically focused on making sure individuals understand their security responsibilities. 
+
+*   **Competencies** refer to the necessary skills and knowledge of individuals performing work under the organization’s control that can affect information security. While competence is important for the ISMS, it is separate from the general understanding of roles and responsibilities that awareness seeks to achieve.
+
+*   **Resources** refer to the people, infrastructure, technology, information and finances needed to establish, implement, maintain and improve the ISMS. Resources enable the ISMS to function effectively but are distinct from training and education.
+
+Therefore, helping employees understand their role and the impact they have on the ISMS is most accurately described as a form of **awareness**, which is a key part of the support that top management should demonstrate to the ISMS.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
