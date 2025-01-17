@@ -538,6 +538,75 @@ Therefore, the most correct answer is **c) Locations of Information** because it
 
 ---
 
+### Question 19
+*Information Security objectives should be?*
+
+- a) Identifiable
+- b) Time Bound
+- c) Simple
+- d) **Measurable**
+
+**Correct Answer:** d) Measurable
+
+*Explanation:* The question asks what characteristic information security objectives should have. According to the standard, information security objectives are a crucial part of an Information Security Management System (ISMS) and must adhere to specific criteria.
+
+Analysing the provided options:
+
+*   **a) Identifiable**: While it is important to be able to identify what the information security objectives are, this is not one of the core characteristics of the objectives themselves. Objectives should be clear but that's part of what makes them measurable, not an objective in itself.
+*   **b) Time Bound**: Although time frames are important when planning how to achieve objectives, being time bound is not a characteristic of the objectives themselves. Instead, it is part of the plan for achieving those objectives. When planning to achieve information security objectives, the organisation should determine what will be done, what resources will be required, who will be responsible and when it will be completed.
+*   **c) Simple**: While it is beneficial for objectives to be clear and easy to understand, simplicity is not a core requirement of information security objectives. Instead, policies should be simple and easy to understand.
+*  **d) Measurable**: Information security objectives should be measurable, if practicable. This means there should be a way to determine if the objective has been achieved. If it is not feasible to measure an objective, this needs to be noted. The objectives should also be monitored, updated as appropriate, and available as documented information.
+
+Therefore, the most correct answer is **d) Measurable**. Information security objectives must be measurable so that progress towards them can be tracked, and their fulfilment can be verified.
+
+---
+
+### Question 20
+*Which of the following is not required to be documented according to ISO 27001?*
+
+- a) Scope of the ISMS
+- b) Information Security Policies and Objectives
+- c) **Resources required by the ISMS**
+- d) Statement of Applicability
+
+**Correct Answer:** c) Resources required by the ISMS
+
+*Explanation:* The question asks which of the listed items is not required to be documented according to ISO 27001. The standard specifies several requirements for documented information within an Information Security Management System (ISMS).
+
+Here's an analysis of each option:
+
+*   **a) Scope of the ISMS**: The scope of the ISMS *is* required to be documented. The organisation must determine the boundaries and applicability of the ISMS, and this scope must be available as documented information. The scope can be limited to parts of the organisation or cover the whole organisation and should consider internal and external issues, the needs of interested parties and interfaces between the organisation's activities and the activities of others.
+*   **b) Information Security Policies and Objectives**: The information security policy *is* required to be documented. It must include a framework for setting information security objectives. The policy should also be available as documented information, communicated within the organisation, and available to interested parties. Information security objectives themselves also have to be documented.
+*   **c) Resources required by the ISMS**: While the standard requires that the organisation determines and provides the resources needed for the ISMS, it does *not* explicitly require that the specific resources themselves be documented, though records of the resources that the organisation needs can be collected through documented information. Top management must ensure that the resources needed for the ISMS are available. There is also a requirement to evaluate resource needs.
+*   **d) Statement of Applicability**: A Statement of Applicability (SoA) *is* a mandatory document in ISO 27001. The SoA includes the necessary controls, justification for their inclusion, whether the controls are implemented or not and the justification for excluding any controls from Annex A.
+
+Therefore, the correct answer is **c) Resources required by the ISMS**. Although the provision of resources is a requirement, the standard does not specifically mandate that the resources themselves be documented. The other options are all explicitly required to be documented according to ISO 27001.
+
+---
+
+### Question 21
+*Which of the following is required by ISO/IEC 27001 in regard to employees?*
+
+- a) All employees should be ISO 27001 Foundation Certified
+- b) **Keeping records as evidence of competence of all employees**
+- c) Only IT Employees should be ISO/IEC 27001 Foundation certified
+- d) Employees should attend a training on ISO/IEC 27001
+
+**Correct Answer:** b) Keeping records as evidence of competence of all employees
+
+*Explanation:* The question asks what ISO/IEC 27001 requires in regard to employees. According to the standard, ISO/IEC 27001 places several requirements on organisations regarding their personnel, focusing on competence, awareness, and responsibilities.
+
+Here's an analysis of each option:
+
+*   **a) All employees should be ISO 27001 Foundation Certified**: ISO/IEC 27001 does **not** require all employees to be ISO 27001 Foundation certified. While the standard emphasises the importance of competence and training, it does not mandate that all employees must hold a specific certification. The ISO/IEC 27001 Foundation certification is designed to demonstrate an individual's understanding of the principles of information security and the requirements for an ISMS. It is intended for managers, consultants and professionals involved in information security.
+*   **b) Keeping records as evidence of competence of all employees**: ISO/IEC 27001 *does* require that organisations retain documented information as evidence of the competence of personnel whose work affects information security. The organisation needs to determine the necessary competence of these personnel, ensure they are competent, take action to acquire competence and evaluate the effectiveness of those actions.
+*   **c) Only IT Employees should be ISO/IEC 27001 Foundation certified**: The standard does not specify that only IT employees should be certified. The standard is applicable to any department and any industry. The focus is on ensuring that all personnel, in any department, whose work affects information security are competent.
+*   **d) Employees should attend a training on ISO/IEC 27001**: While ISO/IEC 27001 does not explicitly mandate that employees attend training *on* ISO/IEC 27001, it does require that personnel receive appropriate information security awareness, education, and training. This training should include regular updates on the organisation's information security policy and procedures. The training should be relevant to their job functions.
+
+Therefore, the most correct answer is **b) Keeping records as evidence of competence of all employees**. ISO/IEC 27001 mandates the organisation to maintain documented evidence of employee competence, ensuring that those who impact information security are adequately skilled and knowledgeable.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
