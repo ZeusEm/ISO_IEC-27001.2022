@@ -1,10 +1,10 @@
 # ISO 27001:2022
 
+- [(Official Standard)](certificationNotes/ISO_IEC-27001.%202022%20-%20Official%20Standard.pdf)
+
 ## Certification Notes - ISO/ IEC 27001:2022
 
-<div style="position:relative; width:100%; height:0; padding-bottom:141.42%;">
-    <iframe src="certificationNotes/ISO27001 2022_Certification Notes.pdf" style="position:absolute; top:0; left:0; width:100%; height:100%; border:none; overflow:auto;" frameborder="0"></iframe>
-</div>
+- [Certification Notes)](certificationNotes/ISO27001 2022_Certification Notes.pdf)
 
 ## Notes - ISO 27001:2022 Clauses
 
