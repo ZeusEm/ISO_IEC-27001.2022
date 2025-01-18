@@ -1,5 +1,13 @@
 # ISO 27001:2022
 
+## Certification Notes - ISO/ IEC 27001:2022
+
+<object data="certificationNotes/ISO27001 2022_Certification Notes.pdf" type="application/pdf" width="80vw" height="60vh">
+    <embed src="certificationNotes/ISO27001 2022_Certification Notes.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Notes - ISO 27001:2022 Clauses
 
 ![Whiteboard Notes](whiteboardNotes/IMG_5320.jpg)
