@@ -2,9 +2,39 @@
 
 ## Certification Notes - ISO/ IEC 27001:2022
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
-    <iframe src="certificationNotes/ISO27001 2022_Certification Notes.pdf" style="position:absolute; top:0; left:0; width:100%; height:100%; border:none; overflow:auto;" scrolling="yes"></iframe>
-</div>
+<div id="pdfViewer" style="width: 100%; height: 90vh;"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+<script>
+    var url = 'certificationNotes/ISO27001 2022_Certification Notes.pdf';
+
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js';
+
+    var loadingTask = pdfjsLib.getDocument(url);
+    loadingTask.promise.then(function(pdf) {
+        var container = document.getElementById('pdfViewer');
+        for (var i = 1; i <= pdf.numPages; i++) {
+            var canvas = document.createElement('canvas');
+            container.appendChild(canvas);
+            var context = canvas.getContext('2d');
+
+            pdf.getPage(i).then(function(page) {
+                var viewport = page.getViewport({ scale: 1.5 });
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                var renderTask = page.render({
+                    canvasContext: context,
+                    viewport: viewport
+                });
+            });
+        }
+    }, function(reason) {
+        console.error(reason);
+    });
+</script>
 
 ## Notes - ISO 27001:2022 Clauses
 
