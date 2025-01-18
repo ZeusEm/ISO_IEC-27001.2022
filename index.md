@@ -981,6 +981,171 @@ Therefore, the most suitable option is that the organisation should provide metr
 
 ---
 
+### Question 36
+*What is NOT true about ISO/IEC 27001 Internal Audit?*
+
+- a) Performed at planned intervals
+- b) Auditors should be independent
+- c) Audit program should be documented
+- d) **Audit should be performed by internal auditors**
+
+**Correct Answer:** d) Audit should be performed by internal auditors
+
+*Explanation:* The correct answer is **d) Audit should be performed by internal auditors**.
+
+Here's why:
+*   **Internal audits must be conducted at planned intervals**. The internal audit programme should consider the importance of the processes concerned and the results of previous audits.
+*   **Auditors should be objective and impartial**. Auditors should be independent from the activities being audited.
+*   **An audit programme should be planned, established, implemented, and maintained**. This programme should include the frequency, methods, responsibilities, planning requirements and reporting of audits. Documented information must be available as evidence of the implementation of the audit programme and the audit results.
+*   While the standard requires internal audits, it does not specify that they **must** be performed by internal personnel. Internal audits can also be managed by **external persons acting on the organization's behalf**. The selection of persons responsible for managing the internal audit programme and the auditors who conduct the internal audits must meet competence requirements and guidelines.
+
+Therefore, while the other options are true of an ISO/IEC 27001 internal audit, it is **not** a requirement that the audit is performed by internal auditors, as external personnel may also be used.
+
+---
+
+### Question 37
+*What is a control of compliance in the Annex A of the ISO 27001 standard?*
+
+- a) Privacy & Protection of Personally Identifiable Information
+- b) Intellectual Property Rights
+- c) Protection of Records
+- d) All of the above
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Here's why:
+*   The standard indicates that **Annex A of the ISO/IEC 27001:2022 standard contains a list of possible information security controls**. These controls are not exhaustive, and organisations may identify controls from any source.
+*   The controls are grouped into four categories: **Organisational, People, Physical and Technological controls**.
+*   The sources list **Privacy and Protection of Personally Identifiable Information (PII)**, **Intellectual Property Rights**, and **Protection of Records** as specific controls within Annex A of the standard. These are all part of the Organisational controls.
+*   **Privacy and Protection of Personally Identifiable Information (PII)** is a control that requires the organisation to identify and meet the requirements regarding the preservation of privacy and protection of PII according to applicable laws, regulations and contractual requirements.
+*   **Intellectual Property Rights** is a control that requires the organisation to implement appropriate procedures to protect intellectual property rights. These rights can include software or document copyrights, design rights, trademarks, patents and source code licenses.
+*   **Protection of Records** is a control that requires records to be protected from loss, destruction, falsification, unauthorised access and unauthorised release. 'Records' are documented individual events or transactions that evidence business activity.
+
+Therefore, all of the options - Privacy & Protection of Personally Identifiable Information, Intellectual Property Rights, and Protection of Records - are controls related to compliance found within Annex A of the ISO 27001 standard.
+
+---
+
+### Question 38
+*When determining the scope of the ISMS which of the following need to be considered?*
+
+- a) Organisational Roles & Responsibilities
+- b) Leadership and Commitment
+- c) Threats and Vulnerabilities
+- d) **External and Internal Issues**
+
+**Correct Answer:** d) External and Internal Issues
+
+*Explanation:* The correct answer is **d) External and Internal Issues**.
+
+Here's why:
+
+*   When determining the scope of the Information Security Management System (ISMS), the organisation **must** consider **external and internal issues** that are relevant to its purpose and that affect its ability to achieve the intended outcomes of the ISMS.
+*   The organisation must also consider the **requirements of relevant interested parties**.
+*   Additionally, the **interfaces and dependencies** between the organisation's activities and those performed by other organisations should be taken into account when determining the scope.
+
+Let's look at why the other options are not correct:
+*   **Organisational Roles & Responsibilities** are important for the implementation and maintenance of the ISMS, and these should be defined and communicated. However, they are not specifically required when defining the scope of the ISMS.
+*  **Leadership and Commitment** from top management are also crucial for the success of the ISMS. However, this is a separate aspect of the standard and not a direct factor in determining the ISMS scope.
+*  **Threats and Vulnerabilities** are key factors in the risk assessment process. While risk assessment is a crucial element of the ISMS, it is not a direct factor to consider when defining the scope of the ISMS. **The risk assessment process is informed by the scope**, but the scope is not directly determined by the threats and vulnerabilities themselves.
+
+In summary, **external and internal issues**, the **requirements of interested parties**, and **interfaces and dependencies** are the factors that should be directly considered when determining the scope of the ISMS.
+
+---
+
+### Question 39
+*What does the organisation need to consider when determining the ISMS scope?*
+
+- a) The Internal Issues
+- b) The requirements of Interested Parties
+- c) The External Issues
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above.
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Here's why:
+
+*   When defining the scope of the Information Security Management System (ISMS), the organisation is required to consider **both external and internal issues** that are relevant to its purpose and that could affect its ability to achieve the intended outcomes of the ISMS.
+*   The organisation must also take into account the **requirements of relevant interested parties**. These requirements may include legal, regulatory, and contractual obligations.
+*   The organisation should also consider the **interfaces and dependencies between its activities and those performed by other organisations**, such as suppliers and subcontractors.
+*   These considerations help to define the boundaries and applicability of the ISMS, ensuring that all relevant areas are included within its scope.
+
+Therefore, the ISMS scope should be determined based on:
+
+*   **Internal issues**, such as the organisation's governance, structure, policies, capabilities, and culture.
+*   **External issues**, such as the legal, regulatory, cultural, social, financial, technological, economic, and competitive environments.
+*  **The requirements of interested parties**, including legal authorities, clients, contractors, employees, and other stakeholders.
+
+By considering all of these factors, the organisation can establish a scope that is appropriate for its context and that effectively addresses its information security risks.
+
+---
+
+### Question 40
+*What is the purpose of ISO 27001?*
+
+- a) **Providing the requirements of the ISMS development and operation**
+- b) Providing guidelines on information security risk management
+- c) Providing information security management system measurement
+- d) Providing guidelines for Information Security Management Systems Auditing
+
+**Correct Answer:** a) Providing the requirements of the ISMS development and operation
+
+*Explanation:* The correct answer is **a) Providing the requirements of the ISMS development and operation**.
+
+Here's why:
+
+*   **ISO/IEC 27001** is the standard that **specifies the requirements for establishing, implementing, maintaining, and continually improving an information security management system (ISMS)**. It provides a framework for organisations to manage their information security effectively.
+*   The standard outlines what an organisation must do to set up and operate its ISMS. It **provides requirements** for the scope of the ISMS, policies, risk assessments, risk treatment, objectives, and other aspects of managing information security.
+*  The **ISO 27000 family of standards** has multiple documents, each serving a different purpose:
+    *   **ISO/IEC 27002** provides guidelines for implementing the controls in Annex A.
+    *   **ISO/IEC 27003** provides general guidance for the implementation of an ISMS.
+    *  **ISO/IEC 27004** offers advice on monitoring and measuring ISMS performance.
+    *   **ISO/IEC 27005** provides guidance on risk management.
+    *   **ISO/IEC 27007** provides guidelines for auditing an ISMS.
+
+Let's look at why the other options are not correct:
+*   Option b) "Providing guidelines on information security risk management" - While risk management is a key part of ISO 27001, the standard itself **provides requirements for how risk management should be approached, not just guidelines**. ISO/IEC 27005 is the standard that provides guidelines on information security risk management.
+*   Option c) "Providing information security management system measurement" - ISO 27001 does **specify that an ISMS's performance needs to be measured**, but it does not provide detailed guidelines for that. **ISO/IEC 27004** provides advice on how organisations can monitor and measure the performance of their ISMS.
+*   Option d) "Providing guidelines for Information Security Management Systems Auditing" - While ISO 27001 does require internal audits, it does not provide specific guidelines for auditing the ISMS. **ISO/IEC 27007** provides guidelines for auditing an ISMS.
+
+In summary, while other standards in the ISO 27000 family provide guidance, ISO 27001 itself is focused on **setting the requirements for establishing and operating the ISMS**.
+
+---
+
+### Question 41
+*Which of the following is an external issue that can affect the scope of ISMS?*
+
+- a) Risk Appetite
+- b) **Government Regulations**
+- c) Processes and Practices
+- d) All of the above
+
+**Correct Answer:** b) Government Regulations
+
+*Explanation:* The correct answer is **b) Government Regulations**.
+
+Here's why:
+
+*   When determining the scope of an Information Security Management System (ISMS), an organisation must consider both **external and internal issues** that are relevant to its purpose and that affect its ability to achieve the intended outcomes of its ISMS.
+*   **External issues** refer to factors outside the organisation that can impact its ISMS. These can include:
+    *   **Government regulations** and legislation.
+    *   The social and cultural context.
+    *   The financial, economic, and political landscape.
+    *   Competition and market forces.
+    *   Trends in information security.
+
+Let's look at why the other options are not correct:
+
+*   **a) Risk Appetite**: Risk appetite is an **internal** factor that influences how much risk an organisation is willing to take. It's a part of the organisation's internal context rather than an external issue.
+*   **c) Processes and Practices**: These are also **internal** aspects of an organisation. They describe how the organisation operates and are part of the internal context of the ISMS.
+
+Therefore, of the options provided, **government regulations** is the only one that is an external issue that can affect the scope of an ISMS.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
