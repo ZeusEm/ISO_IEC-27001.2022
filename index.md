@@ -2,8 +2,8 @@
 
 ## Certification Notes - ISO/ IEC 27001:2022
 
-<div style="position:relative; height:0; padding-bottom:56.25%;">
-    <iframe src="certificationNotes/ISO27001 2022_Certification Notes.pdf" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0"></iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="certificationNotes/ISO27001 2022_Certification Notes.pdf" style="position:absolute; top:0; left:0; width:100%; height:100%; border:none; overflow:auto;" scrolling="yes"></iframe>
 </div>
 
 ## Notes - ISO 27001:2022 Clauses
