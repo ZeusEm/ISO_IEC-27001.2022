@@ -723,6 +723,264 @@ While the residual risk is related to the risk treatment process, it is not expl
 
 ---
 
+### Question 26
+*What does restricting alteration of information to only authorised persons refer to?*
+
+- a) Availability
+- b) Non repudiation
+- c) Confidentiality
+- d) **Integrity**
+
+**Correct Answer:** d) Integrity
+
+*Explanation:* Restricting alteration of information to only authorised persons refers to **integrity**. 
+
+*   **Integrity** ensures the accuracy and completeness of data throughout its lifecycle, and that data cannot be modified in an unauthorised or undetected manner.
+*   The other options are not correct:
+    *   **Availability** means making systems available to authorised users when they need it.
+     *   **Confidentiality** means that information is not disclosed to unauthorised individuals.
+    *   **Non-repudiation** is not explicitly defined in the sources.
+
+---
+
+### Question 27
+*Regarding resources, ISO/ IEC 27001 requires organisations to ensure?*
+
+- a) **They are available to operate the ISMS without interruption**
+- b) Annual budget is allocated to the ISMS
+- c) Providing 24hr support
+- d) They are cost effective
+
+**Correct Answer:** a) They are available to operate the ISMS without interruption
+
+*Explanation:* The correct answer is **a) They are available to operate the ISMS without interruption**.
+
+While the other options might be helpful for a well-resourced ISMS, they are not explicitly required by the ISO/IEC 27001 standard.
+
+Here's why:
+*   **ISO/IEC 27001 mandates that organisations determine and provide the resources** needed for the establishment, implementation, maintenance, and continual improvement of the ISMS. These resources include people, skills, infrastructure, technology, information, and finances.
+*   Auditors are tasked with confirming that the organisation anticipates, determines, and allocates the necessary resources for the ISMS.
+*   The standard does not specify that resources must be available without interruption, that an annual budget is allocated, that 24hr support must be provided or that they be cost effective, though these might be necessary to ensure the ISMS functions effectively.
+
+Therefore, while options b), c) and d) could contribute to a robust ISMS, option a) best reflects the core requirement of the standard regarding resource availability for operating the ISMS.
+
+---
+
+### Question 28
+*What is NOT a risk treatment option*
+
+- a) Acceptance
+- b) Mitigation
+- c) Transfer
+- d) **Ignore**
+
+**Correct Answer:** d) Ignore
+
+*Explanation:* The correct answer is **d) Ignore**.
+
+According to the sources, risk treatment options include:
+*   **Avoiding** the risk
+*   **Controlling** the risk and reducing the risk level, which is also referred to as **mitigation**
+*   **Transferring** the risk
+*   **Accepting** the risk
+*   A combination of the above options
+
+The sources do not include "ignore" as a valid risk treatment option.
+
+---
+
+### Question 29
+*ISO 27001 requires that companies continually improve*
+
+- a) The work environment of IT security employees
+- b) **The effectiveness of the Information Security Management System**
+- c) The quality of manufactures products
+- d) The business processes
+
+**Correct Answer:** b) The effectiveness of the Information Security Management System
+
+*Explanation:* The correct answer is **b) The effectiveness of the Information Security Management System**.
+
+ISO/IEC 27001 requires that organisations **continually improve** the suitability, adequacy, and effectiveness of the ISMS. This means that the organisation should be working to enhance the ISMS, making it better at achieving its objectives, and ensuring that it remains appropriate for the organisation's needs.
+
+The standard does not explicitly require organisations to continually improve:
+*   The work environment of IT security employees
+*   The quality of manufactured products
+*   The business processes
+
+While these other options may be related to or impacted by the ISMS, they are not the specific focus of the continual improvement requirement in ISO/IEC 27001.
+
+The focus of continual improvement within ISO 27001 is on enhancing the ISMS itself through activities such as:
+*   Taking actions to address risks and opportunities.
+*   Establishing objectives.
+*   Upgrading operational controls.
+*   Analysing and evaluating performance.
+*   Conducting internal audits and management reviews.
+*   Detecting nonconformities and implementing corrective actions.
+*   Periodically evaluating and reviewing the ISMS to identify opportunities for improvement.
+
+---
+
+### Question 30
+*What is true about an Information Security Management System?*
+
+- a) A set of policies, procedures and practices
+- b) Uses Risk Management process
+- c) A systematic approach
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Here's why:
+*   An Information Security Management System (ISMS) is indeed **a set of policies, procedures, and practices**. These elements provide a framework for managing and protecting an organisation's information assets.
+*   An ISMS **uses a risk management process**. This involves identifying, assessing, and treating risks to information security. Risk management is central to the operation of an ISMS, ensuring that controls are implemented appropriately to address identified threats.
+*   An ISMS is a **systematic approach**. It is a structured framework for managing information security, and it is not ad-hoc or haphazard. The ISMS is designed to be a part of an organisation's overall management system. It follows a plan-do-check-act cycle, or other improvement models, to ensure that the ISMS is continually being improved.
+
+Therefore, all of the options are true about an Information Security Management System. It is a structured framework comprised of policies, procedures and practices that follows a systematic approach based on a risk management process.
+
+---
+
+### Question 31
+*Employees working within the ISMS should be aware of?*
+
+- a) The budget allocated to the ISMS
+- b) The required certifications to do their job
+- c) **The implications of not conforming to the ISMS requirements**
+- d) The date of internal audit
+
+**Correct Answer:** c) The implications of not conforming to the ISMS requirements
+
+*Explanation:* The correct answer is **c) The implications of not conforming to the ISMS requirements**.
+
+According to the sources, personnel working under the organisation's control should be aware of:
+*   **The information security policy**.
+*   Their contribution to the effectiveness of the information security management system (ISMS), including the benefits of improved information security performance.
+*   **The implications of not conforming with the information security management system requirements**.
+
+The sources do not state that employees working within the ISMS should be specifically aware of:
+*   The budget allocated to the ISMS.
+*   The required certifications to do their job.
+*   The date of the internal audit.
+
+While these may be relevant to some employees or to the overall management of the ISMS, they are not explicitly mentioned as awareness requirements in the standard.
+
+Therefore, the most appropriate answer, based on the information in the sources, is that employees working within the ISMS should be aware of the implications of not conforming to the ISMS requirements.
+
+---
+
+### Question 32
+*The policies for information security need to be reviewed at planned intervals, or if significant changes occur, to ensure their continuing?*
+
+- a) Suitability
+- b) Adequacy
+- c) Effectiveness
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+According to the sources, the policies for information security should be reviewed at planned intervals or when significant changes occur to ensure their continuing:
+*   **Suitability**: This means that the policies should still be appropriate for the organisation's purpose and context. They should align with the organisation's goals and risk appetite.
+*   **Adequacy**: This refers to whether the policies are comprehensive enough to address the organisation's information security needs. The policies should cover all relevant areas and provide sufficient guidance.
+*   **Effectiveness**: This means that the policies should be achieving their intended outcomes. They should be effective in protecting the organisation's information assets and mitigating risks.
+
+The review process should take into account changes to:
+*   The business environment.
+*   Legal requirements.
+*   Technology.
+*   The internal organisation.
+
+The review should also include assessing opportunities for improvement.
+
+Therefore, the policies for information security need to be reviewed to ensure that they remain suitable, adequate, and effective, making "All of the above" the correct option.
+
+---
+
+### Question 33
+*What is a vulnerability?*
+
+- a) A potential cause which may harm a system or an organisation
+- b) **A weakness of an asset or a resource that can be exploited by one or more threats**
+- c) The potential of a loss or damage when a threat exploits a vulnerability
+- d) The probability of the happening of a bad event
+
+**Correct Answer:** b) A weakness of an asset or a resource that can be exploited by one or more threats
+
+*Explanation:* The correct answer is **b) A weakness of an asset or a resource that can be exploited by one or more threats**.
+
+Here's why:
+*   A **vulnerability** is defined as a weakness that can be used to harm an information asset.
+*   A **threat** is defined as anything that can harm an information asset.
+*   A **risk** is defined as the effect of uncertainty on objectives.
+*   Risk is also defined as the likelihood of something happening.
+
+Therefore, a vulnerability is a weakness that a threat can exploit, which can then result in risk or impact to the organisation.
+
+Let's look at why the other options are not correct:
+*   Option a) "A potential cause which may harm a system or an organisation" is the definition of a **threat**.
+*   Option c) "The potential of a loss or damage when a threat exploits a vulnerability" describes the **impact** of a risk, or a security event.
+*  Option d) "The probability of the happening of a bad event" refers to the **likelihood** of an event, which is also a key component of **risk**.
+
+In summary, a **vulnerability** is a specific weakness that a **threat** can exploit, leading to a potential **risk** with a certain **impact** and **likelihood**.
+
+---
+
+### Question 34
+*Information must be classified in terms of all the following except one*
+
+- a) Legal Requirements
+- b) Value
+- c) Criticality
+- d) **Complexity**
+
+**Correct Answer:** d) Complexity
+
+*Explanation:* The correct answer is **d) Complexity**.
+
+According to the sources, information needs to be classified taking into consideration:
+*   **Legal requirements**
+*   **Value** of the information
+*   **Criticality** and sensitivity to unauthorized disclosure or modification.
+*   The level of protection needed to ensure the **confidentiality, integrity, and availability** of information.
+*   Relevant **interested party requirements**
+
+The sources do not mention **complexity** as a factor for classifying information.
+
+Therefore, while legal requirements, value, and criticality are all valid criteria for information classification, complexity is not. Hence, complexity is the exception.
+
+---
+
+### Question 35
+*The organisation should provide metrics for the ISMS performance regarding?*
+
+- a) The number of risks
+- b) The IT security employees turnover
+- c) The increase of threats
+- d) **The compliance with the standard**
+
+**Correct Answer:** d) The compliance with the standard
+
+*Explanation:* The correct answer is **d) The compliance with the standard**.
+
+Here's why:
+*   The organisation is required to **monitor, measure, analyse and evaluate** its information security performance and the effectiveness of the ISMS. This includes determining what needs to be monitored and measured, the methods for doing so, and when the results should be analysed and evaluated.
+*   The sources state that the organisation should evaluate its information security performance. This performance can be measured against the **organisation's objectives**, the effectiveness of its **controls**, the degree to which **risks are being addressed** and its **compliance with the standard**.
+*  **Metrics should be used to drive continual improvement** of the ISMS.
+
+The sources also provide examples of what can be monitored and measured which include:
+*   Information security events and how many of them became information security incidents.
+*   The accomplishment of information security objectives.
+*   Reported security vulnerabilities.
+
+While the number of risks, IT security employees turnover, and increase of threats are all potentially relevant to the ISMS, they are not explicitly stated as the primary focus for metrics of ISMS performance.
+
+Therefore, the most suitable option is that the organisation should provide metrics for the ISMS performance regarding **compliance with the standard**, as well as considering whether the ISMS is meeting its objectives and addressing identified risks.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
