@@ -4,7 +4,7 @@
 
 ## Certification Notes - ISO/ IEC 27001:2022
 
-- [Certification Notes)](certificationNotes/ISO27001 2022_Certification Notes.pdf)
+- [(Certification Notes)](certificationNotes/ISO27001 2022_Certification Notes.pdf)
 
 ## Notes - ISO 27001:2022 Clauses
 
