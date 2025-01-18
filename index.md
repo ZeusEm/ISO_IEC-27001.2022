@@ -1,10 +1,10 @@
 # ISO 27001:2022
 
-- [(Official Standard)](certificationNotes/ISO_IEC-27001.%202022%20-%20Official%20Standard.pdf)
+- [Official Standard](certificationNotes/ISO_IEC-27001.%202022%20-%20Official%20Standard.pdf)
 
 ## Certification Notes - ISO/ IEC 27001:2022
 
-- [(Certification Notes)](certificationNotes/ISO27001 2022_Certification Notes.pdf)
+- [Certification Notes](ISO_IEC-27001.%202022%20-%20Official%20Standard.pdf)
 
 ## Notes - ISO 27001:2022 Clauses
 
