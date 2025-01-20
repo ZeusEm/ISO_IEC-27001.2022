@@ -1162,6 +1162,259 @@ Therefore, of the options provided, **government regulations** is the only one t
 
 ---
 
+### Question 42
+*Which item is part of the ISMS Policy?*
+
+- a) Password Management
+- b) Access Control
+- c) **The Commitment of Top Management to improve the ISMS**
+- d) Risk Management
+
+**Correct Answer:** c) The Commitment of Top Management to improve the ISMS
+
+*Explanation:* The correct answer is (c) The Commitment of Top Management to improve the ISMS.
+
+An information security policy should include a commitment to the continual improvement of the information security management system.
+
+Other elements of an information security policy include:
+*   It should be appropriate to the purpose of the organisation.
+*   It should include information security objectives or provide a framework for setting them.
+*   It should include a commitment to satisfy applicable requirements related to information security.
+*   It should be available as documented information.
+*   It should be communicated within the organisation.
+*   It should be available to interested parties, as appropriate.
+
+While password management and access control are important aspects of an ISMS, they are typically addressed in topic-specific policies, which support the overarching information security policy. Risk management is a key process within the ISMS, but is not specifically part of the ISMS policy itself.
+
+---
+
+### Question 43
+*A Risk Owner is the one who?*
+
+- a) Mitigates the Risk
+- b) Identified the Risk
+- c) **Is accountable and has the authority to manage the Risk**
+- d) Accepts the Risk
+
+**Correct Answer:** c) Is accountable and has the authority to manage the Risk
+
+*Explanation:* The correct answer is (c) Is accountable and has the authority to manage the Risk.
+
+A risk owner is the individual or entity that has the accountability and authority to manage an identified risk.
+
+The sources also indicate:
+*   Risk owners are responsible for approving the risk treatment plan and accepting the residual risk.
+*   Risk owners should be identified for each risk.
+*   Risk owners should have the authority to manage their identified risk.
+*   Minutes should be available for discussion with Risk Owners and selection of controls.
+
+While a risk owner plays a key role in the risk management process, they do not necessarily identify the risk or perform the mitigation themselves. The risk owner is responsible for ensuring the risk is appropriately managed.
+
+---
+
+### Question 44
+*Interested Parties who can affect the scope of the ISMS are?*
+
+- a) Stakeholders who can affect the ISMS Operation
+- b) The ones that are affected by the ISMS activities
+- c) Government Agencies or Regulators who can have special requirements related to the ISMS
+- d) **All the above**
+
+**Correct Answer:** d) All the above
+
+*Explanation:* The correct answer is (d) All the above.
+
+Interested parties, also referred to as stakeholders, are defined as a person or organization that can affect, be affected by, or perceive themselves to be affected by a decision or activity.
+
+The sources indicate that interested parties can include:
+*   **Those who can affect the ISMS**: This includes stakeholders who can influence the operation of the ISMS.
+*   **Those affected by the ISMS**: This includes parties who are impacted by the ISMS activities.
+*   **Government agencies or regulators**: These parties can have specific requirements related to the ISMS.
+
+Therefore, the scope of an ISMS needs to take into account all of the above mentioned parties. The requirements of these interested parties can include legal and regulatory requirements and contractual obligations.
+
+---
+
+### Question 45
+*An antivirus software protects information from being corrupted by malware. It is ensuring the?*
+
+- a) Availability of Information
+- b) Confidentiality of Information
+- c) **Integrity of Information**
+- d) All the above
+
+**Correct Answer:** c) Integrity of Information
+
+*Explanation:* The correct answer is (c) **Integrity of Information**.
+
+Here's why:
+*   **Integrity** refers to maintaining the accuracy and completeness of data throughout its lifecycle, ensuring that data cannot be modified in an unauthorised or undetected manner. Anti-virus software protects against malware, which can corrupt or alter data. By preventing malware infections, anti-virus software helps maintain the integrity of information.
+
+*   **Confidentiality** means ensuring that information is not disclosed to unauthorised individuals. While malware can sometimes be used to steal data, the primary function of anti-virus software is to prevent corruption, rather than to prevent disclosure.
+
+*   **Availability** refers to ensuring that information is available to authorised users when needed. Although some malware attacks can disrupt systems, impacting availability, this is not the primary focus of anti-virus software which is to detect and destroy malware before it damages data.
+
+*   While anti-virus software can indirectly contribute to the confidentiality and availability of information by protecting against malware, it is most directly associated with preserving the **integrity** of information.
+
+---
+
+### Question 46
+*Which of the following is required to be included in the Statement of Applicability?*
+
+- a) Information Security Policy
+- b) **Justification for excluding any of the Annex A controls**
+- c) Identified Risks
+- d) Availability of IT Security Staff
+
+**Correct Answer:** b) Justification for excluding any of the Annex A controls
+
+*Explanation:* The correct answer is (b) **Justification for excluding any of the Annex A controls**.
+
+The Statement of Applicability (SoA) is a key document within an Information Security Management System (ISMS) that maps how an organisation implements its ISMS. According to the sources, the SoA should include:
+*   **All necessary controls** determined through the risk treatment process.
+*   Whether each necessary control is **implemented or not**.
+*   **Justification for including** the necessary controls, which may be based on legal, contractual, risk, or best practice requirements.
+*   **Justification for excluding** any of the Annex A controls.
+
+The SoA is derived from the risk register and the risk treatment plan. The controls included in the SoA can be from Annex A of ISO/IEC 27001, other standards, or custom controls designed by the organisation.
+
+While the information security policy is a critical element of the ISMS, it is not part of the SoA. Identified risks are part of the risk register, which informs the SoA, but not part of the SoA itself. The availability of IT security staff is a resource consideration for implementing the ISMS, but not a component of the SoA.
+
+---
+
+### Question 46
+*The documentation of internal and external issues is?*
+
+- a) **Not Required**
+- b) Required
+- c) Required for Internal Issues but not for the External ones
+- d) Required for External Issues but not for the Internal ones
+
+**Correct Answer:** a) Not Required
+
+*Explanation:* The correct answer is (a) **Not Required**.
+
+According to the sources, there is no explicit requirement for **documented information** concerning external and internal issues. While the organisation must determine these issues, there is no requirement to formally document them.
+
+However, it is important to note:
+
+*   **Demonstrating Conformance**: Even though documenting the issues is not mandatory, the organisation must demonstrate that it has determined the relevant external and internal issues. The organisation can demonstrate this in a variety of ways, such as through minutes of meetings, management explanations, or by showing that the knowledge of these issues is reflected in other areas of the ISMS.
+*   **Context is Key**: Understanding the external and internal issues is crucial because it informs the scope of the ISMS, the information security policy, and the risk assessment and treatment processes.
+*   **Auditing**: Auditors will not demand to see documented information regarding external and internal issues, but the organisation must be able to demonstrate it has determined these issues. Failure to do so would be a nonconformity.
+*   **Use in Other Areas**: The knowledge gained from assessing external and internal issues will likely be used throughout the ISMS. Evidence of conformance can be found in other documented information related to scope, policy, risk assessment and risk treatment.
+
+Therefore, while an organisation must understand its external and internal issues, it is not required to document them specifically. However, the impact of these issues should be evident in other areas of the ISMS.
+
+---
+
+### Question 47
+*What is Residual Risk?*
+
+- a) Accepted Risk after Evaluation
+- b) **Remaining Risk after Treatment**
+- c) Probability of Risk Reoccurence
+- d) Remaining Risk after Risk Assessment
+
+**Correct Answer:** b) Remaining Risk after Treatment
+
+*Explanation:* The correct answer is (b) **Remaining Risk after Treatment**.
+
+Here's why:
+*   **Residual risk** is defined as the risk that remains after risk treatment actions have been applied. It's the level of risk that an organisation is left with after it has implemented controls and other measures to mitigate its initial risks.
+
+*   The sources explain that after implementing risk treatments, the **residual risk needs to be evaluated** to see if it falls within the acceptable risk criteria. If the residual risk is not acceptable, the organisation should consider new treatment options.
+
+Let's consider the other options:
+*   **Accepted risk after evaluation**: While risk evaluation is a step in the overall risk management process, it does not define residual risk. Risk evaluation is a process of comparing the results of risk analysis with risk criteria to determine whether the risk is acceptable or tolerable. Risk acceptance is the decision to accept a risk, for example, if the risk is within the acceptance criteria or if top management accepts the risk even if it is above the risk acceptance criteria.
+*   **Probability of Risk Reoccurrence:** This is not the definition of residual risk. The probability, or likelihood, of a risk occurring is considered during the risk analysis phase, before risk treatment.
+*   **Remaining Risk after Risk Assessment**: Risk assessment involves risk identification, analysis and evaluation. Residual risk is what remains after risk **treatment**, not after risk assessment.
+
+Therefore, **residual risk** is specifically the risk that remains after risk treatment is applied, and the organisation must evaluate if that residual risk is acceptable.
+
+---
+
+### Question 48
+*Internal & External Issues are reviewed and monitored?*
+
+- a) Every six months
+- b) Never
+- c) Yearly
+- d) **Regularly**
+
+**Correct Answer:** d) Regularly
+
+*Explanation:* The correct answer is (d) **Regularly**.
+
+While the sources do not specify a fixed time period like six months or yearly for reviewing internal and external issues, they do indicate that these issues should be reviewed and monitored **regularly** and **whenever significant changes occur**.
+
+Here's why:
+
+*   **Dynamic Context:** The internal and external context of an organisation is not static. These issues can change due to various factors, such as: changes to the business strategy, the organisation’s technical environment, regulations, new business ventures, changes to products or services, and other external or internal events.
+*   **ISMS Suitability:** The ISMS needs to remain suitable, adequate, and effective. Regular reviews of the context help ensure the ISMS continues to address the current challenges and opportunities.
+*   **Management Review:** Changes in external and internal issues are specifically included as an input for management review. This review is conducted at planned intervals and is an opportunity to assess these issues and make adjustments to the ISMS as needed.
+*   **Policy Updates:** Information security policies must be reviewed and updated when significant changes occur to the ISMS processes requiring a change in the policy. This is a reflection of the dynamic nature of the external and internal issues.
+*   **Risk Assessment:** Significant changes can trigger a risk assessment, requiring a review of the context.
+*   **Continual Improvement:** By regularly monitoring these issues, organisations can identify areas for improvement in their ISMS.
+
+While the sources do not prescribe the exact frequency, the review of internal and external issues should occur on an ongoing basis in response to changes and as part of the management review process. Therefore, 'regularly' is the most suitable answer.
+
+---
+
+### Question 49
+*Owners of a Company who may require a return on investment of the ISMS are an example of?*
+
+- a) **Interested Parties**
+- b) Top Management
+- c) Business Partners
+- d) Internal Auditors
+
+**Correct Answer:** a) Interested Parties
+
+*Explanation:* The correct answer is (a) **Interested Parties**.
+
+Here's why:
+
+*   **Interested parties** (also referred to as stakeholders) are defined as persons or organisations that can affect, be affected by, or perceive themselves to be affected by a decision or activity. **Owners of a company** who expect a return on their investment in the ISMS clearly fit this definition. They are affected by the performance of the ISMS and can influence the direction of the ISMS based on their needs and expectations.
+*   The sources list examples of interested parties as:
+    *   **Internal** organisational units, executive management, board of directors, employees.
+     *   **External** legal authorities, clients/customers, contractors/suppliers, group companies, the public.
+    *   **Other potential** interested parties can include legal and regulatory authorities, parent organizations, customers, trade and professional associations, community groups, non-governmental organizations, suppliers, neighbours, members of the organization and others working on behalf of the organization, and information security experts.
+*   **Top management** is a specific type of internal interested party, but not all interested parties are top management. While top management is responsible for the ISMS, they do not include all interested parties. Top management is also responsible for ensuring the ISMS meets the needs of all the relevant interested parties.
+*   **Business partners** are a type of external interested party, but the concept is not as broad as the category of interested parties.
+*   **Internal auditors** are also a type of internal interested party who are responsible for evaluating the effectiveness of the ISMS, but this is also more specific than the broader category of interested parties. Internal auditors are responsible for conducting internal audits and reporting results to management.
+
+Therefore, while owners of a company may also be part of the top management structure, and may also be business partners, their position as stakeholders who expect a return on investment of the ISMS falls within the scope of **interested parties** as defined by the sources.
+
+---
+
+### Question 50
+*The policies for information security control in Annex A of ISO/IEC 27001 must be reviewed in order to?*
+
+- a) Ensure that information security policy matches all identified risks
+- b) Ensure that all information security controls of Annex A are covered
+- c) **Check the effectiveness of information security policies and identify any improvements**
+- d) To check the existence of non-conformities
+
+**Correct Answer:** c) Check the effectiveness of information security policies and identify any improvements
+
+*Explanation:* The correct answer is (c) **Check the effectiveness of information security policies and identify any improvements**.
+
+Here's why:
+
+*   The sources state that information security policies, including topic-specific policies, should be **reviewed at planned intervals and when significant changes occur**. This review is not simply a formality, but a process to ensure policies remain effective and up to date.
+*   The primary goal of reviewing policies is to **assess their suitability, adequacy and effectiveness**. This involves examining whether the policies are still appropriate given changes in the business environment, legal requirements, technology, or the organisation itself.
+*   The review also aims to **identify any opportunities for improvement**. This includes identifying weaknesses or gaps in the existing policies, or if the current implementation of controls is not working effectively. It ensures that policies are aligned with the organisation's needs, and that they remain relevant.
+
+Let's consider why the other options are incorrect:
+
+*   **a) Ensure that information security policy matches all identified risks**: While aligning the information security policy to identified risks is important, it is not the *sole* reason for reviewing the policies. Risk management is just one of the factors considered during the review. The review also covers the suitability and effectiveness of the policies given the context of the organisation. The Statement of Applicability (SoA) is the document that aligns risks with controls.
+*   **b) Ensure that all information security controls of Annex A are covered**: The review of information security policies should consider all relevant controls, but it's not about *ensuring all controls in Annex A are covered*. The organisation should select and implement controls based on its risk assessment, and not all Annex A controls are mandatory. The selected controls are documented in the Statement of Applicability, and should be justified.
+*   **d) To check the existence of non-conformities**: While the review process may reveal non-conformities, this is not the primary objective of the review itself. Nonconformities are identified through audits and other performance evaluations. The policy review is part of a proactive, continuous improvement process.
+
+Therefore, the review of information security policies is a broader process, and aims to **check their effectiveness and identify opportunities for improvement**, encompassing the factors mentioned above, and also to reflect changes in the environment and business operations.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
