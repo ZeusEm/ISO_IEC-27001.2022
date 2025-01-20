@@ -2,11 +2,21 @@
 
 - [Official Standard](ISO_IEC-27001.%202022%20-%20Official%20Standard.pdf)
 
-## Certification Notes - ISO/ IEC 27001:2022
+## Certification Notes
 
 - [Certification Notes](certificationNotes/ISO27001%202022_Certification%20Notes.pdf)
 
-## Notes - ISO 27001:2022 Clauses
+## PECB Guides
+
+- Brochures
+   - [Foundation](PECB/iso-iec-27001-foundation-en.pdf)
+   - [Lead Implementer](PECB/iso-iec-27001-lead-implementer-en.pdf)
+- Candidate Handbooks
+   - [Foundation](PECB/PECB_Rules%20for%20Foundation%20Exam.pdf)
+   - [Lead Implementer](PECB/pecb-candidate-handbook-iso-27001-lead-implementer.pdf)
+- [Online Exam Guide](PECB/Preparing-for-your-PECB-Online-Exam-Guide.pdf)
+
+## Whiteboard Notes
 
 ![Whiteboard Notes](whiteboardNotes/IMG_5320.jpg)
 ![Whiteboard Notes](whiteboardNotes/IMG_5381.jpg)
