@@ -1541,6 +1541,70 @@ In summary, the correct order of steps for the collection of evidence, according
 
 ---
 
+### Question 56
+*The scope of the ISMS should be validated by?*
+
+- a) Internal Auditor
+- b) ISMS Manager
+- c) **Top Management**
+- d) ISMS Team
+
+**Correct Answer:** c) Top Management
+
+*Explanation:* The correct answer is **(c) Top Management**.
+
+Here's why, based on the sources:
+
+*   **Top management** is ultimately responsible for ensuring the ISMS is suitable and effective, and this includes the scope of the ISMS. The sources state that top management should demonstrate leadership and commitment to the ISMS. This includes ensuring that the information security policy and objectives are compatible with the strategic direction of the organisation. Top management is also responsible for ensuring the ISMS achieves its intended outcome(s).
+*   **Top management** reviews the scope of the ISMS as part of the management review process, which ensures its continuing suitability, adequacy, and effectiveness. This review would include validating the scope. Top management is also responsible for reviewing reports on the status and effectiveness of the ISMS.
+*   The **scope of the ISMS** should be defined by the organisation and should consider external and internal issues, the needs and expectations of interested parties, and interfaces and dependencies with other organisations. The scope should be available as documented information. The scope of an ISMS determines its applicability in terms of region, location, department, technology, and resources. The scope should also include internally and externally supported services necessary for the ISMS.
+*   While the **Internal Auditor** does assess the effectiveness of the ISMS, including whether it meets the requirements of ISO/IEC 27001 and the organisation's own requirements, they do not validate the scope itself. The internal audit provides information to top management for review. The audit criteria includes the requirements of ISO/IEC 27001, and the audit scope should include descriptions of physical locations, organisational units, activities and processes, and time periods covered.
+*   The **ISMS Manager** or Management Representative may be involved in defining the scope of the ISMS, but it is ultimately top management's responsibility to validate it. The sources state that the management representative is responsible for reporting to top management on the status of the ISMS.
+*   The **ISMS Team** may also be involved in the process of defining the scope, but the responsibility of validation ultimately lies with top management.
+
+Therefore, while the Internal Auditor, ISMS Manager, and ISMS Team are involved in the ISMS, it is **Top Management** who is ultimately responsible for validating the scope of the ISMS to ensure it is suitable, adequate, and effective for the organisation.
+
+---
+
+### Question 57
+*Reassessment of risk should be performed?*
+
+- a) Regularly and when significant changes occur
+- b) When a new CIO is hired
+- c) When a new version of Microsoft office is installed
+- d) When a new computer is purchased
+
+**Correct Answer:** a) Regularly and when significant changes occur
+
+*Explanation:* The correct answer is **(a) Regularly and when significant changes occur**.
+
+Here's why, based on the sources:
+
+*   The sources state that an organisation **shall perform information security risk assessments at planned intervals** or when significant changes are proposed or occur. This requirement indicates that risk assessments should not only be a periodic exercise but also triggered by specific events.
+    *   These planned intervals should be appropriate to the ISMS.
+    *   Significant changes to the ISMS or its context, or information security incidents, should also prompt additional risk assessments.
+*  The risk assessment process should be **repeatable and comparable**.
+     *  The process is repeatable if the same person does the risk assessment over a period of time.
+     *  The process is comparable if several people use the same method and arrive at similar conclusions.
+*   **Risk assessments can be performed on the entire ISMS or on parts of it**. If significant changes impact only parts of the ISMS, a new partial risk assessment might be sufficient.
+*   The risk assessment process should also consider risks and opportunities to: ensure the ISMS achieves its intended outcomes; prevent or reduce undesired effects; and achieve continual improvement.
+    *   This planning should focus on developing assurance methods to prevent and reduce undesired effects.
+*   The results of risk assessments should be **consistent, valid, and comparable**. Auditors should confirm that the results of risk assessments are consistent by:
+    *   Asking the organisation why its risk assessment results are consistent, valid, and comparable.
+    *   Sampling the documented information concerning results of information security risk assessment.
+    *   Verifying if similar risks in similar contexts have been similarly assessed; if risks are differently assessed, there is a rationale for the difference; and that overall assessment results are unequivocally understandable.
+    *   Verifying how the same risk has been evaluated in previous risk assessments and if any changes are understandable.
+*   When changes to the ISMS are required, the changes should be carried out in a planned manner. This includes reviews of the ISMS for changes in internal and external contexts, as well as changes that align with change management.
+
+While the other options might introduce changes in an organisation, they do not necessarily trigger a reassessment of risk by themselves, as such, they are not the best answer:
+
+*   Hiring a new CIO may lead to a review of the ISMS, but it is not the event that specifically triggers a risk reassessment.
+*   Installing new software versions, like Microsoft Office, or purchasing a new computer, should be part of the ISMS change management and asset management processes, but not necessarily trigger a risk assessment if there is no change in the context of the business.
+
+Therefore, based on the sources, the reassessment of risk should be performed **(a) regularly and when significant changes occur**.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
