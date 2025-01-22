@@ -1741,6 +1741,134 @@ While an information security incident, an internal audit observation, or issues
 
 ---
 
+### Question 64
+*Which of the following is an activity of the plan phase?*
+
+- a) **Risk Identification**
+- b) Internal Audit
+- c) Improvement
+- d) Operation
+
+**Correct Answer:** a) Risk Identification
+
+*Explanation:* According to the sources, **risk identification** is an activity of the plan phase. The sources describe the planning phase as including activities such as:
+
+*   **Defining the scope of the ISMS**.
+*   **Considering internal and external issues** that are relevant to the organisation's purpose and that affect its ability to achieve the intended outcome(s) of its ISMS.
+*   **Determining risks and opportunities** that need to be addressed to ensure the ISMS can achieve its intended outcomes, prevent or reduce undesired effects and achieve continual improvement.
+*   **Planning actions to address these risks and opportunities**, as well as how to integrate and implement the actions into the ISMS processes.
+*   **Establishing information security objectives** at relevant functions and levels.
+*  **Defining a repeatable process of risk assessment**.
+*  **Identifying information security risks** associated with the loss of confidentiality, integrity and availability for information within the scope of the ISMS.
+
+The sources also describe the following phases, which are distinct from the planning phase:
+*   **Internal Audit** is an activity of the *performance evaluation* phase.
+*   **Improvement** activities, including corrective actions are part of the *improvement* phase.
+*   **Operation** is a distinct phase focusing on implementing and controlling processes.
+ Therefore, based on the information in the sources, the correct answer is **risk identification**.
+
+---
+
+### Question 65
+*Which of the following statements are true about Information security continuity?*
+*Information security continuity should be regularly?*
+- *1. Verfied*
+- *2. Controlled* 
+- *3. Reviewed* 
+- *4. Evaluated*
+
+- a) **1, 3, 4**
+- b) 1, 2, 3
+- c) 2, 3, 4
+- d) 1, 2, 4
+
+**Correct Answer:** a) 1, 3, 4
+
+*Explanation:* According to the sources, the correct answer is **a) 1, 3, 4**. The sources state that information security continuity should be regularly **verified**, **reviewed**, and **evaluated**. Here's a breakdown of why these options are correct and why 'controlled' is not:
+
+*   **Verified**: The sources state that controls implemented for information security continuity need to be **verified** to ensure they are still valid and effective in case of a real adverse situation. This means checking that the controls are functioning as intended and will provide the necessary protection during a disruption.
+*   **Reviewed**: The sources emphasize that whenever something changes, information security continuity measures need to be **reviewed** and updated as necessary. This means that the organisation should periodically assess the continuity plans and procedures to ensure they are still appropriate given any changes in the organisation, its systems or its environment.
+*   **Evaluated**: The controls implemented for information security continuity need to be **evaluated** to ensure they are still valid and effective in case of a real adverse situation. The sources also state that the organisation should **evaluate** the effectiveness of the actions to address risks and opportunities to ensure that the information security controls identified in the risk treatment, are effectively implemented and be in operation. This means that the results of the testing and review process should be analysed, to see if improvements are needed.
+
+*   **Controlled**: While control is an important aspect of ISMS, the sources do not specifically state that information security continuity should be regularly *controlled*. Instead, the sources focus on the need to **implement** and **maintain** controls for information security during disruption. *Controlling* is implied in the implementation and maintenance, but not an action to be taken *regularly*.
+
+Therefore, the correct answer is **a) 1, 3, 4**, as information security continuity should be regularly **verified**, **reviewed** and **evaluated** to ensure its effectiveness.
+
+---
+
+### Question 66
+*Which of the following statements are true about Information security continuity?*
+*Information security continuity should be regularly?*
+- *1. Verfied*
+- *2. Controlled* 
+- *3. Reviewed* 
+- *4. Evaluated*
+
+- a) **1, 3, 4**
+- b) 1, 2, 3
+- c) 2, 3, 4
+- d) 1, 2, 4
+
+**Correct Answer:** a) 1, 3, 4
+
+*Explanation:* According to the sources, the correct answer is **a) 1, 3, 4**. The sources state that information security continuity should be regularly **verified**, **reviewed**, and **evaluated**. Here's a breakdown of why these options are correct and why 'controlled' is not:
+
+*   **Verified**: The sources state that controls implemented for information security continuity need to be **verified** to ensure they are still valid and effective in case of a real adverse situation. This means checking that the controls are functioning as intended and will provide the necessary protection during a disruption.
+*   **Reviewed**: The sources emphasize that whenever something changes, information security continuity measures need to be **reviewed** and updated as necessary. This means that the organisation should periodically assess the continuity plans and procedures to ensure they are still appropriate given any changes in the organisation, its systems or its environment.
+*   **Evaluated**: The controls implemented for information security continuity need to be **evaluated** to ensure they are still valid and effective in case of a real adverse situation. The sources also state that the organisation should **evaluate** the effectiveness of the actions to address risks and opportunities to ensure that the information security controls identified in the risk treatment, are effectively implemented and be in operation. This means that the results of the testing and review process should be analysed, to see if improvements are needed.
+
+*   **Controlled**: While control is an important aspect of ISMS, the sources do not specifically state that information security continuity should be regularly *controlled*. Instead, the sources focus on the need to **implement** and **maintain** controls for information security during disruption. *Controlling* is implied in the implementation and maintenance, but not an action to be taken *regularly*.
+
+Therefore, the correct answer is **a) 1, 3, 4**, as information security continuity should be regularly **verified**, **reviewed** and **evaluated** to ensure its effectiveness.
+
+---
+
+### Question 67
+*An information security control is?*
+
+- a) **A measure that modifies the risk**
+- b) A corrective action to remove a nonconformity
+- c) A root cause analysis tool
+
+**Correct Answer:** a) A measure that modified the risk
+
+*Explanation:* According to the sources, an information security control is **a measure that modifies the risk**. The sources provide the following details:
+
+*   A **control** is defined as a means of managing risk, including policies, procedures, guidelines, practices, or organisational structures, which can be administrative, technical, management, or legal in nature.
+*   The purpose of **controls** is to mitigate risks to an acceptable level.
+*   Organisations should select **appropriate controls** to mitigate risks.
+*   **Risk treatment** involves selecting one or more options for modifying information security risks and implementing those options which provide or modify the controls.
+*   The selection of appropriate **controls** should take into account the risk assessment results.
+
+The sources make it clear that controls are implemented to change the risk, not just to correct nonconformities, or analyse root causes. Therefore, the correct answer is **a) A measure that modifies the risk**.
+
+---
+
+### Question 68
+*Which is an example of risk transfer?* 
+- *1. Buying an insurance policy.* 
+- *2. Outsourcing the development of an application.* 
+- *3. Transferring data to a disaster recovery site.*
+
+- a) 1 only
+- b) 2 only
+- c) 1, 2 and 3
+- d) 1 and 2
+
+**Correct Answer:** a) A measure that modified the risk
+
+*Explanation:* According to the sources, an information security control is **a measure that modifies the risk**. The sources provide the following details:
+
+*   A **control** is defined as a means of managing risk, including policies, procedures, guidelines, practices, or organisational structures, which can be administrative, technical, management, or legal in nature.
+*   The purpose of **controls** is to mitigate risks to an acceptable level.
+*   Organisations should select **appropriate controls** to mitigate risks.
+*   **Risk treatment** involves selecting one or more options for modifying information security risks and implementing those options which provide or modify the controls.
+*   The selection of appropriate **controls** should take into account the risk assessment results.
+
+The sources make it clear that controls are implemented to change the risk, not just to correct nonconformities, or analyse root causes. Therefore, the correct answer is **a) A measure that modifies the risk**.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
