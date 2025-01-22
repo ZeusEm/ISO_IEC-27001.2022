@@ -1569,7 +1569,7 @@ Therefore, while the Internal Auditor, ISMS Manager, and ISMS Team are involved 
 ### Question 57
 *Reassessment of risk should be performed?*
 
-- a) Regularly and when significant changes occur
+- a) **Regularly and when significant changes occur**
 - b) When a new CIO is hired
 - c) When a new version of Microsoft office is installed
 - d) When a new computer is purchased
@@ -1602,6 +1602,142 @@ While the other options might introduce changes in an organisation, they do not 
 *   Installing new software versions, like Microsoft Office, or purchasing a new computer, should be part of the ISMS change management and asset management processes, but not necessarily trigger a risk assessment if there is no change in the context of the business.
 
 Therefore, based on the sources, the reassessment of risk should be performed **(a) regularly and when significant changes occur**.
+
+---
+
+### Question 58
+*As per ISO/IEC 27001 requirements, documenting the results of the risk treatment plan is?*
+
+- a) Optional
+- b) **Mandatory**
+- c) Left to the management decision
+- d) Not required
+
+**Correct Answer:** b) Mandatory
+
+*Explanation:* According to the standard, documenting the results of the risk treatment plan is **mandatory**. Specifically, the sources state that "the organization shall retain documented information of the results of the information security risk treatment".
+
+Additionally, the sources indicate that the risk treatment plan itself, which includes the necessary controls, how the controls modify the risk, risk owners, selected options, and more must also be documented. Furthermore, it is required that the organisation retain documented information about the information security risk treatment process.
+
+---
+
+### Question 59
+*Reporting information security incidents is the responsibility of?*
+
+- a) IT Security Staff
+- b) Internal Auditor
+- c) ISMS Manager
+- d) **All Employees**
+
+**Correct Answer:** d) All Employees
+
+*Explanation:* According to the sources, **all employees** are responsible for reporting information security incidents. The sources emphasize the importance of establishing clear communication channels for reporting security events, and that all personnel should be trained to report any security weakness or potential incidents.
+
+While the sources indicate that other roles, such as the IT security staff, internal auditors and ISMS managers, have responsibilities related to incident management, they do not exclude the responsibility of all employees in reporting.
+
+*   **All personnel should be aware of the contact point identity** and should report events as soon as possible.
+*   The reporting mechanism should be **easy, accessible and efficient**.
+*   **Employees and contractors need to be trained** to report any security weakness, observed or suspected.
+*   Organisations should have **a process to tackle security incidents**, which includes defining roles and responsibilities and incident management procedures.
+*  The organisation should provide a **mechanism for personnel to report** observed or suspected information security events through appropriate channels.
+
+Therefore, while specific teams or individuals may be responsible for managing and responding to incidents, the initial responsibility of reporting information security incidents lies with all employees.
+
+---
+
+### Question 60
+*Which of the following is a valid option for risk treatment according to ISO/IEC 27001?*
+
+- a) Ignoring the risk
+- b) **Buying an insurance to share the risk**
+- c) Evaluating the risk
+- d) Reassessing the risk
+
+**Correct Answer:** b) Buying an insurance to share the risk
+
+*Explanation:* According to the sources, a valid option for risk treatment is **buying insurance to share the risk**. The sources explicitly state that risk treatment can involve "sharing the risk with another party or parties (including contracts and risk financing)". This includes methods such as insurance policies.
+
+Other risk treatment options, as described in the sources, include:
+
+*   Avoiding the risk by deciding not to start or continue with the activity that gives rise to the risk.
+*   Taking or increasing risk in order to pursue an opportunity.
+*   Removing the risk source.
+*   Changing the likelihood of the risk.
+*   Changing the consequences of the risk.
+*   Retaining the risk by informed choice.
+
+The sources indicate that **evaluating** and **reassessing the risk** are aspects of the risk management process, but they are not risk treatment options. Also, **ignoring the risk** is not a valid risk treatment option.
+
+---
+
+### Question 61
+*When is an organization required to perform a security risk assessment?*
+
+- a) **When a significant change occurs**
+- b) Every year
+- c) After an internal audit is performed
+- d) After management review
+
+**Correct Answer:** a) When a significant change occurs
+
+*Explanation:* According to the sources, an organisation is required to perform a security risk assessment **when a significant change occurs**. The sources specify that information security risk assessments should be carried out at planned intervals or when significant changes are proposed or occur. This is further supported by the following points:
+
+*   Risk assessment can be performed on all of the ISMS or on parts of it, and a new partial risk assessment may be required when **significant changes have impacts on parts of the ISMS**.
+*   When **significant changes** to the ISMS (or its context) or information security incidents have occurred, the organisation should determine which of these changes or incidents require an additional information security risk assessment.
+*   Changes to the ISMS, such as a transition from ISO/IEC 27001:2013 to ISO/IEC 27001:2022, should be planned and managed, and changes should include a review of the ISMS for changes in internal and external contexts like new business lines or mergers.
+*   In case of changes, risk assessments should be performed to evaluate new or modified risks and to decide on risk treatment actions.
+
+While the sources also mention that risk assessments should be done at **planned intervals**, they specifically highlight that a risk assessment is required when **significant changes** are proposed or occur.
+
+The sources do not indicate that a risk assessment is explicitly required every year, after an internal audit, or after a management review, although these activities may trigger a risk assessment if they reveal significant changes or issues.
+
+---
+
+### Question 62
+*Changes to software packages should be controlled and restricted in order to?*
+
+- a) Minimise the functional bugs
+- b) Increase the business value
+- c) Maintain the ISMS budget within limits
+- d) **Minimise introducing security vulnerabilities**
+
+**Correct Answer:** d) Minimise introducing security vulnerabilities
+
+*Explanation:* According to the sources, changes to software packages should be controlled and restricted in order to **minimise introducing security vulnerabilities**. The sources emphasise that changes to software, especially vendor-supplied software, should be limited to only necessary changes and strictly controlled. The following points from the sources support this:
+
+*   **Uncontrolled changes** to systems, processes or information processing facilities can cause major problems to the business.
+*   A **risk assessment** should be conducted to identify potential vulnerabilities when modifying a software package.
+*   Changes to software should be implemented **only after successful testing**.
+*   **Security testing** should be carried out before the operational implementation of a product.
+*   The organisation should discourage modifications to software packages and **limit them to necessary changes**.
+*   New or changed systems can bring in **unknown vulnerabilities**.
+*   **Software installation should be controlled**, as uncontrolled installation of software on computing devices can introduce vulnerabilities and security incidents.
+
+The sources do not suggest that the primary reason for controlling changes to software packages is to minimise functional bugs, increase business value, or maintain the ISMS budget within limits, although these could be secondary benefits. The main focus is on preventing the introduction of security vulnerabilities through uncontrolled changes.
+
+---
+
+### Question 63
+*A nonconformity occurs when?*
+
+- a) An information security incident happens
+- b) **A certain requirement is not complied with**
+- c) An internal auditor makes an observation
+- d) Documentation
+
+**Correct Answer:** b) A certain requirement is not complied with
+
+*Explanation:* According to the sources, a nonconformity occurs when **a certain requirement is not complied with**. The sources define a nonconformity as the non-fulfilment of a requirement. This definition aligns with the general understanding of a nonconformity within the context of ISO standards. 
+
+Here's further clarification based on the sources:
+
+*   **Nonconformity** is specifically defined as the non-fulfilment of a requirement.
+*   When a nonconformity occurs, the organisation is required to **react to the nonconformity**, take action to control and correct it, and deal with the consequences.
+*   The organisation must also **evaluate the need for action** to eliminate the causes of the nonconformity, to prevent it from recurring or occurring elsewhere.
+*   The process for dealing with a nonconformity includes reviewing the nonconformity, determining the causes, and implementing corrective actions.
+*   The effectiveness of any **corrective action** taken must also be reviewed.
+
+While an information security incident, an internal audit observation, or issues with documentation can lead to the identification of a nonconformity, they are not the definition of nonconformity. A nonconformity is specifically a failure to meet a requirement.
 
 ---
 
