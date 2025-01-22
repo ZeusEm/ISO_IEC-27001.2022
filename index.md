@@ -1415,6 +1415,104 @@ Therefore, the review of information security policies is a broader process, and
 
 ---
 
+### Question 51
+*What audit outcome should be used to identify an opportunity for improvement?*
+
+- a) **Observation**
+- b) Nonconformity
+- c) Highrisk
+- d) Moderate risk
+
+**Correct Answer:** a) Observation
+
+*Explanation:* The correct answer is **(a) Observation**.
+
+Here's why, based on the sources:
+
+*   **Observations** are a key element in identifying areas for improvement. The sources explain that audits should identify opportunities for improvement. In the context of the provided materials, an observation is a documented finding during an audit that does not represent a failure to meet a requirement, but does indicate an area where the organisation's processes could be enhanced.
+*   **Nonconformities** indicate a failure to meet a requirement. While nonconformities require corrective action, they are primarily about addressing existing issues rather than identifying opportunities for improvement.
+*   **Risk levels** such as "high" or "moderate" (as in options c and d) are classifications used in risk assessment to prioritise actions. While they can influence decisions about improvement, the risk level itself is not an audit outcome that directly pinpoints an opportunity for improvement.
+*  The sources state that management reviews should include opportunities for continual improvement. The sources also state that internal audits should identify opportunities for improvement.
+*   An independent review of the implementation of information security should be performed to find opportunities for improvement.
+*   The organisation should conduct recurring activity to enhance measurable results of the suitability, adequacy and effectiveness of the ISMS.
+* The information collected through monitoring and measurement has to be analysed and evaluated to see what can be improved.
+*   Documented information from monitoring, measuring, analysis, and evaluation can be used to drive continual improvements of the ISMS.
+
+Therefore, while nonconformities and risk levels are important aspects of an ISMS, it is the **observation** that is specifically used to identify an opportunity for improvement.
+
+---
+
+### Question 52
+*Which benefit is gained from operating an Information Security Management System?*
+
+- a) Reduces the number of information security incidents
+- b) Offers organisation-wide protection
+- c) Provides a centrally managed framework
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **(d) All of the above**.
+
+Here's why, based on the sources:
+
+*   An Information Security Management System (ISMS) helps to **reduce the number of information security incidents**. The sources highlight that the goal of an ISMS is to protect information assets and mitigate risks, which would include reducing security incidents. The purpose of controls and processes is to prevent incidents, and an effective ISMS would lead to fewer incidents.
+*   An ISMS offers **organisation-wide protection**. The scope of an ISMS is not limited to the IT department, and the standard is applicable to all departments where information is processed, whether manually or electronically. The ISMS should be integrated with all processes of the organisation. Therefore, the ISMS provides a framework for protecting all types of information assets across the entire organisation, not just in one department or area.
+*   An ISMS provides a **centrally managed framework**. The standard provides a structured approach for establishing, implementing, maintaining, and continually improving information security. The ISMS includes a risk assessment process, selection of controls, and methods for continual improvement. An ISMS is part of the overall management system, based on a business risk approach, to establish, implement, operate, monitor, review, maintain and improve information security. The ISMS provides a framework for the management of information security that can be centrally managed through various processes. The implementation of an ISMS is a strategic decision by the organisation, and the business needs should drive the ISMS.
+
+Therefore, an ISMS provides a centrally managed framework that protects the entire organisation and helps to reduce the number of information security incidents.
+
+---
+
+### Question 53
+*Who is responsible of conducting the review of the ISMS to ensure its continuing suitability, adequacy and effectiveness?*
+
+- a) Internal Auditor
+- b) **Top Management**
+- c) ISMS Manager
+- d) Chief Information Security Officer
+
+**Correct Answer:** b) Top Management
+
+*Explanation:* The correct answer is **(b) Top Management**.
+
+Here's why, based on the sources:
+
+*   **Top management** is responsible for reviewing the ISMS to ensure its continuing suitability, adequacy, and effectiveness. The sources specifically state that top management shall review the organisation's information security management system at planned intervals to ensure it is still suitable, adequate and effective. The management review should be chaired by top management.
+*   While the **Internal Auditor** conducts audits of the ISMS, their role is to provide information on whether the ISMS conforms to requirements and is effectively implemented and maintained. The internal audit results are reported to top management.
+*   The **ISMS Manager** or Management Representative may have responsibility for the ISMS, but it is top management that ultimately reviews the ISMS. The Management Representative or ISMS champion should report on the status of the ISMS to top management.
+*  The **Chief Information Security Officer (CISO)** may be responsible for managing the ISMS and may also be part of the management review, but the overall review of the ISMS is the responsibility of top management.
+
+Therefore, while other roles such as the Internal Auditor, ISMS Manager or CISO are involved in the ISMS, it is the **top management** that has the responsibility of conducting the review to ensure its continuing suitability, adequacy, and effectiveness.
+
+---
+
+### Question 54
+*Information Security Awareness, Education and Training controls belong to which category in Annex A of ISO/IEC 27001?*
+
+- a) Organizational
+- b) **People**
+- c) Technological
+- d) Physical 
+
+**Correct Answer:** b) People
+
+*Explanation:* The correct answer is **(b) People**.
+
+Here's why, based on the sources:
+
+*   The sources indicate that the **Annex A controls** of ISO/IEC 27001:2022 are categorised into four themes: **Organisational, People, Physical, and Technological**.
+*   Specifically, **Information Security Awareness, Education and Training** controls are listed under the **People controls** category. This is further confirmed by the descriptions of the Annex A controls, where A.6.3 (Information Security Awareness, Education and Training) is explicitly placed within the A.6 People controls.
+*   The sources also clarify the **distinction between these categories**:
+    *   **Organisational controls** (A.5) generally relate to the framework and management aspects of information security, such as policies, roles, and responsibilities.
+    *   **People controls** (A.6) focus on the human element, including personnel security, awareness, training, and disciplinary processes.
+    *  **Physical controls** (A.7) concern the physical security of premises and assets, such as perimeters, secure areas, and equipment maintenance.
+   *   **Technological controls** (A.8) involve the technical measures used to protect information, like access control, malware protection, and cryptography.
+
+Therefore, as the sources classify **Information Security Awareness, Education and Training** under the **People controls** category, the answer is **(b) People**.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
