@@ -1513,6 +1513,34 @@ Therefore, as the sources classify **Information Security Awareness, Education a
 
 ---
 
+### Question 55
+*Which steps should the collection of evidence (Control A.5.28) follow after the occurrence of an information security incident?*
+
+- a) Assess, collect and preserve
+- b) Collect, identify and preserve 
+- c) **Identify, collect and preserve**
+- d) None of the above 
+
+**Correct Answer:** c) Identify, collect and preserve
+
+*Explanation:* The correct answer is **(c) Identify, collect and preserve.**
+
+Here's why, based on the sources:
+
+*   **Control A.5.28, Collection of Evidence**, is about establishing and implementing procedures for the identification, collection, acquisition, and preservation of evidence related to information security events. This control aims to ensure that evidence is handled correctly in case of disciplinary or legal actions.
+*   The sources detail the specific order in which evidence should be handled:
+    *   **Identify**: The initial step is to identify what constitutes relevant evidence for the incident.
+    *   **Collect**: Once identified, the evidence needs to be collected, including logs and errors on affected systems.
+   *   **Preserve**: The collected evidence must be preserved in a manner that maintains its integrity and admissibility. This includes ensuring that records are complete and not tampered with, and that copies of electronic evidence are identical to the originals.
+*   The sources also specify that evidence should be collected as soon as possible after the occurrence of the incident.
+
+*   While the sources mention that information security events should be assessed and categorised before being addressed as incidents, this assessment step occurs *before* the collection of evidence as part of incident management, not as part of the evidence collection process itself.
+*   Therefore, the most accurate answer is **(c) Identify, collect and preserve**, as this reflects the correct sequence for handling evidence according to the sources.
+
+In summary, the correct order of steps for the collection of evidence, according to the sources, is to **first identify** the relevant evidence, **then collect** it, and finally **preserve** it to maintain its integrity.
+
+---
+
 ## Lead Implementer - Question Bank
 
 ---
