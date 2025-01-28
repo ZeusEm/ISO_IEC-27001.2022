@@ -1868,19 +1868,277 @@ The sources make it clear that controls are implemented to change the risk, not 
 - a) 1 only
 - b) 2 only
 - c) 1, 2 and 3
-- d) 1 and 2
+- d) **1 and 2**
 
-**Correct Answer:** a) A measure that modified the risk
+**Correct Answer:** d) 1 and 2
 
-*Explanation:* According to the sources, an information security control is **a measure that modifies the risk**. The sources provide the following details:
+*Explanation:* The correct answer is **d) 1 and 2**.
 
-*   A **control** is defined as a means of managing risk, including policies, procedures, guidelines, practices, or organisational structures, which can be administrative, technical, management, or legal in nature.
-*   The purpose of **controls** is to mitigate risks to an acceptable level.
-*   Organisations should select **appropriate controls** to mitigate risks.
-*   **Risk treatment** involves selecting one or more options for modifying information security risks and implementing those options which provide or modify the controls.
-*   The selection of appropriate **controls** should take into account the risk assessment results.
+Here's why:
 
-The sources make it clear that controls are implemented to change the risk, not just to correct nonconformities, or analyse root causes. Therefore, the correct answer is **a) A measure that modifies the risk**.
+*   **Risk transfer** involves shifting the responsibility or burden of a risk to another party.
+*   **Buying an insurance policy** is a classic example of risk transfer. In this case, the financial risk associated with a potential loss is transferred to the insurance company.
+*   **Outsourcing the development of an application** can also be considered a form of risk transfer. While the organization still bears some responsibility, it is transferring the risk associated with the development process, such as development delays, to the outsourced provider. The source material states that when outsourcing development, the organisation should have clear agreements to protect against risks and ensure the on-time delivery of the product. The source material also states that when outsourcing development, the organisation should consider the risks associated with licensing, code ownership, contractual requirements, and testing. Additionally, the organization should supervise and monitor outsourced development.
+
+*   **Transferring data to a disaster recovery site**, is not a risk transfer. While this action is a risk mitigation strategy, it doesn't transfer the risk to a different party. Rather, it's a way of ensuring business continuity and the availability of data in case of a disaster, but the organization still bears the risk of a disaster occurring. Disaster recovery is also noted as a way to ensure that technology is capable of recovering as per business expectations from all known disruptions.
+
+Therefore, only options 1 and 2 represent actual risk transfer, and option 3 is a risk mitigation technique.
+
+---
+
+### Question 69
+*Which PDCA Cycle Phase does improvement clause of ISO/ IEC 27001 belong to?* 
+
+- a) Plan
+- b) Do
+- c) Check
+- d) **Act**
+**Correct Answer:** d) Act
+
+*Explanation:* The correct answer is **d) Act**.
+
+The sources indicate that the ISO/IEC 27001 standard does not explicitly emphasize the Plan-Do-Check-Act (PDCA) cycle. However, the standard does require continual improvement of the information security management system (ISMS). This concept of **continual improvement** aligns with the **"Act" phase** of the PDCA cycle. 
+
+The sources also specify that the organization can adopt any process improvement model, including the PDCA model, to improve its ISMS. In this model, the "Act" phase focuses on taking actions based on the results of the "Check" phase, which includes making changes to improve the ISMS.
+
+The improvement clause of ISO/IEC 27001 is about making changes to the ISMS to improve its suitability, adequacy and effectiveness.  Specifically, the organisation should take actions based on audit results, analyse monitored events, and ensure that corrective actions are taken effectively and on time, all of which fall within the "Act" phase. The sources also specify that the improvement process includes taking actions to address risks and opportunities, establishing objectives, upgrading operational controls, and analyzing and evaluating performance.
+
+Therefore, while ISO/IEC 27001 doesn't explicitly mandate the PDCA cycle, the actions taken for improvement correspond to the "Act" phase of the PDCA model.
+
+---
+
+### Question 70
+*Which of the following is not required to be documented by ISO/IEC 27001 standard?* 
+
+- a) Scope of the ISMS
+- b) **Internal Issues**
+- c) Information Security Policy and Objectives
+- d) Statement of Applicability
+**Correct Answer:** b) Internal Issues
+
+*Explanation:* The correct answer is **b) Internal Issues**.
+
+Here's why:
+
+*   The ISO/IEC 27001 standard has specific requirements for documented information related to the Information Security Management System (ISMS).
+*   **Scope of the ISMS** is required to be documented. The scope defines the boundaries and applicability of the ISMS within the organisation. The documented scope should include the region, location, department, functions, technology and resources of the ISMS.
+*   **Information Security Policy and Objectives** are also required to be documented. The policy should be appropriate to the organisation's purpose and include a commitment to satisfying applicable requirements, as well as a commitment to continual improvement. The objectives must be consistent with the information security policy.
+*   A **Statement of Applicability (SoA)** is another mandatory document. It includes all necessary controls, justifications for their inclusion, whether they are implemented or not, and justifications for excluding any controls from Annex A of ISO/IEC 27001. The SoA is derived from the risk register.
+
+*   While the standard requires that an organisation determines **internal and external issues** relevant to its purpose and that affect its ability to achieve the intended outcomes of its ISMS, it does not explicitly require that these issues be documented. The organisation needs to evaluate these issues, and they should be considered when defining the scope of the ISMS. Auditors will seek evidence that these issues have been considered, which can be through documented information or other information such as meeting minutes.
+
+Therefore, while internal issues are a key consideration in establishing and maintaining an ISMS, they are not explicitly required to be documented, whereas the scope of the ISMS, the information security policy and objectives and the SoA are explicitly required to be documented.
+
+---
+
+### Question 71
+*Which of the following information must be included in the Statement of Applicability?*
+
+- a) The justification of inclusion of security controls from ISO 27001 Annex A
+- b) Information regarding whether the listed controls are implemented in the organisation or not
+- c) Reason why the controls are implemented
+- d) **All of the Above**
+**Correct Answer:** d) All of the Above
+
+*Explanation:* The correct answer is **d) All of the Above**.
+
+Here's why:
+
+*   The **Statement of Applicability (SoA)** is a key document in an Information Security Management System (ISMS) and is a mandatory requirement of the ISO/IEC 27001 standard. The SoA is derived from the risk register and acts as a map of the implementation of the ISMS.
+*   The SoA must include all necessary controls that the organisation has determined are needed to modify information security risks to meet its risk acceptance criteria. These necessary controls can come from ISO/IEC 27001 Annex A, other standards, or be custom-designed by the organization.
+*   For each control included in the SoA, the organisation must provide **justification for its inclusion**. This justification can be based on legal requirements, contractual requirements, risk requirements or best practices.
+*   The SoA must also specify **whether each control is implemented or not**. This indicates the current status of the organisation's security posture.
+*   If the organisation chooses to exclude any controls from Annex A of ISO/IEC 27001, it must provide a **justification for this exclusion** within the SoA. This ensures that all decisions regarding controls are made consciously and documented.
+*   The SoA should also reference the version number of the document, and any changes to the SoA should be approved by management.
+
+Therefore, the SoA must include the justification for inclusion of security controls, whether those controls are implemented or not, and the reasons for their implementation, making 'All of the Above' the correct answer. The SoA also needs to include a justification for the exclusion of any Annex A controls that are deemed not applicable.
+
+---
+
+### Question 72
+*Which of the following are examples of Information Security Policy?*
+- *1. Ensure that information in accessible only to those authorised to have access* 
+- *2. Meet all information security requirements under appropriate regulations and legislations*
+- *3. Install a biometric device to control access to the Data Centre*
+- *4. Install antivirus on PCs in the organisation*
+- *5. Address the security of all services to ensure that risks are identified and appropriate controls are implemented and documented*
+
+- a) 1, 2, 3, 4, 5
+- b) 1, 2, 3
+- c) 1, 2, 4
+- d) **1, 2, 5**
+**Correct Answer:** d) 1, 2, 5
+
+*Explanation:* The correct answer is **d) 1, 2, 5**.
+
+Here's why:
+
+*   **Information security policies** are high-level statements that set the direction for an organisation's approach to information security. They should be appropriate to the purpose of the organisation, and include a commitment to satisfying applicable security requirements and a commitment to continual improvement. The policies should be documented, communicated within the organisation, and made available to interested parties as appropriate.
+
+*   Option 1, "**Ensure that information in accessible only to those authorised to have access**," is an example of a high-level objective that would be included in an information security policy. It sets the direction for how access to information will be controlled.
+
+*   Option 2, "**Meet all information security requirements under appropriate regulations and legislations**," is also an example of a high-level commitment that should be part of an information security policy. It demonstrates a commitment to compliance with external requirements.
+
+*   Option 3, "**Install a biometric device to control access to the Data Centre**," is an example of a specific security control and is not part of a high-level policy. It is a specific action that would be implemented as a result of the policy and risk assessments, and the implementation of controls within the ISMS. A control is a means of managing risk, including policies, procedures, guidelines, practices or organisational structures, which can be administrative, technical, management or legal in nature.
+
+*  Option 4, "**Install antivirus on PCs in the organisation**," is also an example of a specific security control and not a high-level policy statement. This is an action that is taken to manage and mitigate specific risks to the organisation, and it is not a high level policy.
+
+*   Option 5, "**Address the security of all services to ensure that risks are identified and appropriate controls are implemented and documented**," is a high-level statement that should be part of an information security policy. It shows a commitment to a risk based approach to managing information security and ensuring that identified risks are addressed with appropriate controls, and that these controls are documented and in operation.
+
+Therefore, options 1, 2 and 5 are examples of statements that would be included in an information security policy, whereas options 3 and 4 are examples of specific security controls and would not be part of the policy.
+
+---
+
+### Question 73
+*Who should approve the risk treatment plan?*
+
+- a) ISMS Manager
+- b) **Risk Owners**
+- c) Internal Auditor
+- d) Top Management
+**Correct Answer:** b) Risk Owners
+
+*Explanation:* The correct answer is **b) Risk Owners**.
+
+Here's why:
+
+*   The sources clearly state that **risk owners** are responsible for approving the information security risk treatment plan and accepting the residual risks.
+*   The risk treatment plan outlines the selected risk treatment options, the necessary controls and how these controls will modify the risk. It also indicates the implementation status of these controls and the expected benefits.
+*   The **risk owners** are the individuals or groups that have been identified as being accountable for the management of specific risks, and therefore they are also responsible for approving how those risks will be treated.
+*   While the ISMS manager, internal auditors and top management all have important roles in the overall ISMS, they do not have the specific responsibility of approving the risk treatment plan. The ISMS manager may be responsible for overseeing the development of the risk treatment plan, and the internal auditor reviews the effectiveness of the ISMS. Top management demonstrates leadership by ensuring that the ISMS is achieving its intended outcomes, and by reviewing the status and effectiveness of the ISMS, but the risk owners are responsible for approving the risk treatment plan and accepting the residual risks.
+
+Therefore, the responsibility for approving the risk treatment plan and accepting the residual risk lies with the **risk owners**.
+
+---
+
+### Question 74
+*What should be included in the supplier agreements regarding information security?*
+
+- a) Information at Risk
+- b) Legal and Regulatory Requirements
+- c) Non - Disclosure Agreements
+- d) **All of the Above**
+**Correct Answer:** d) All of the Above
+
+*Explanation:* The correct answer is **d) All of the Above**.
+
+Here's why:
+
+*   Supplier agreements should include all relevant information security requirements to ensure a clear understanding between the organisation and the supplier regarding their obligations. These agreements are crucial for managing risks associated with supplier access to an organisation's assets.
+
+*   **Information at Risk:** Supplier agreements should include a description of the information to be provided or accessed and the methods for providing or accessing that information. The agreements should also specify the classification of information according to the organisation's scheme, and map this to the supplier's classification scheme if it is different.
+
+*   **Legal and Regulatory Requirements**: Contracts should include all relevant legal, statutory, regulatory, and contractual requirements, such as data protection, handling of personally identifiable information, intellectual property rights and copyright, and how compliance with these requirements will be ensured.
+
+*   **Non-Disclosure Agreements**: Confidentiality or non-disclosure agreements should be included and signed by suppliers. The agreements should define the information to be protected, the duration of the agreement and actions to be taken when it is terminated, responsibilities of signatories to prevent unauthorized disclosure, and the ownership of information.
+
+Additionally, supplier agreements should include:
+
+*   The obligations of each party to implement an agreed set of controls, including access control, performance review, monitoring, reporting and auditing.
+*   Rules for the acceptable use of information and other associated assets.
+*   Procedures for the authorisation and removal of authorisation for the use of the organisation's information and assets by supplier personnel.
+*   Information security requirements regarding the supplier’s ICT infrastructure.
+*   Indemnities and remediation for failure of a contractor to meet requirements.
+*   Incident management requirements and procedures.
+*   Training and awareness requirements for specific procedures and information security requirements.
+*   Provisions for sub-contracting, including the controls to be implemented.
+*   Relevant contacts for information security issues.
+*   Screening requirements for the supplier's personnel.
+*   Evidence and assurance mechanisms of third-party attestations for information security requirements.
+*   The right to audit supplier processes and controls related to the agreement.
+*   Supplier's obligation to deliver reports on the effectiveness of controls and agreement on timely correction of issues.
+*   Defect resolution and conflict resolution processes.
+*   Backup procedures aligned with the organisation’s needs.
+*   Ensuring the availability of an alternative facility such as a disaster recovery site.
+*   Termination clauses, including records management, return of assets, secure disposal of information and any ongoing confidentiality obligations.
+
+Therefore, supplier agreements need to include all of the above elements related to information security, making 'All of the Above' the correct answer.
+
+---
+
+### Question 75
+*Which clause of ISO/IEC 27001 is part of the PLAN phase of the PDCA cycle?*
+
+- a) Improvement
+- b) **Context**
+- c) Evaluation
+- d) Operation
+**Correct Answer:** b) Context
+
+*Explanation:* The correct answer is **b) Context**.
+
+Here's why:
+
+*   The **Plan-Do-Check-Act (PDCA) cycle** is a key component of the ISO/IEC 27001 standard, though the standard does not explicitly emphasize this cycle. The PDCA cycle is used for continual improvement of processes and the ISMS, and the different phases are:
+    *   **Plan**: This involves establishing the objectives and processes necessary to deliver results in accordance with the organisation's information security policy. This includes setting information security objectives, planning how to achieve them, and determining the scope of the ISMS. The 'plan' phase also involves understanding the organisation and its context, which includes internal and external issues that are relevant to its purpose and affect its ability to achieve the intended outcomes of the ISMS.
+    *   **Do**: This phase involves implementing the planned processes. This includes operational planning and control, implementing the risk treatment plan, and establishing the controls necessary to manage information security risks.
+    *   **Check**: This involves monitoring and measuring the implemented processes and results against the information security policy and objectives, and reporting the results. This includes internal audits, management reviews, and analysis and evaluation of monitoring and measurement results.
+    *   **Act**: This involves taking actions to improve the ISMS based on the results of the 'check' phase. This includes addressing nonconformities and taking corrective actions, and implementing continual improvements.
+*   Based on this understanding, the **Context** clause of ISO/IEC 27001 (clause 4) aligns with the **PLAN** phase. This clause requires the organisation to determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended outcome of its information security management system. Understanding the context is a key part of the initial planning for the ISMS.
+*   **Improvement** (clause 10) is part of the **ACT** phase. This is where the organisation takes action to improve the ISMS based on the results of monitoring and reviews.
+*   **Evaluation** (clause 9) is part of the **CHECK** phase. This is where the organisation monitors, measures, analyses, and evaluates the ISMS and its effectiveness.
+*   **Operation** (clause 8) is part of the **DO** phase. This is where the organisation implements and controls the processes needed to meet requirements.
+
+Therefore, the clause that is part of the **PLAN** phase is **Context**.
+
+---
+
+### Question 76
+*Which of the following statement about information security objectives is correct?*
+*Information Security Objectives should be:*
+*1. Established and communicated to all employees*
+*2. Aligned with security policy*
+*3. Reviewed every six months*
+*4. Documented*
+*5. Measurable*
+
+- a) 1, 2, 3, 4, 5
+- b) **1, 2, 4, 5**
+- c) 2, 3, 4, 5
+- d) 2, 4, 5
+**Correct Answer:** b) 1, 2, 4, 5
+
+*Explanation:* The correct answer is **b) 1, 2, 4, 5**.
+
+Here's why:
+
+*   **Information security objectives** should be established at relevant functions and levels within the organisation. These objectives must be consistent with the information security policy. The objectives should take into account applicable information security requirements and the results of risk assessments and risk treatment. 
+*   The information security objectives must be **communicated** and be available as documented information.
+*   Information security objectives should be **measurable**, if practicable. It is noted that there can be situations when it may not be feasible to measure an information security objective.
+*   The organisation should plan how to achieve the information security objectives, determining what will be done, what resources will be required, who will be responsible, when it will be completed, and how the results will be evaluated.
+*   The status and progress of information security objectives should be periodically verified and updated as appropriate.
+*   There is no requirement in the sources that the information security objectives should be reviewed every six months. The sources state that the objectives should be monitored, and updated as appropriate, and that their status and progress should be periodically verified.
+
+Therefore, based on the requirements of ISO/IEC 27001, information security objectives should be established and communicated to all employees, aligned with the security policy, documented, and measurable, but there is no requirement to review them every six months, so the correct answer is **b) 1, 2, 4, 5**.
+
+---
+
+### Question 77
+*Interested Parties relevant to the ISMS need to be identified in order to?*
+
+- a) Perform the risk assessment
+- b) **Understand the context of the organisation**
+- c) Transfer the risk to them
+- d) Share the risk with them
+**Correct Answer:** b) Understand the context of the organisation
+
+*Explanation:* The correct answer is **b) Understand the context of the organisation**.
+
+Here's why:
+
+*   Identifying interested parties is a key part of understanding the context of the organisation. The organisation is required to determine **external and internal issues** that are relevant to its purpose and that affect its ability to achieve the intended outcomes of its information security management system (ISMS). These issues include the needs and expectations of interested parties.
+
+*   **Interested parties** are those who can affect, be affected by, or perceive themselves to be affected by a decision or activity. These can be internal, such as employees, executive management and the board of directors, or external, such as legal authorities, clients, contractors and the public. Understanding the needs and expectations of these parties is crucial for establishing the ISMS.
+
+*   The requirements of interested parties may include **legal and regulatory requirements** and **contractual obligations**. Understanding these requirements helps to define the scope of the ISMS, informs the risk assessment process, and ensures that the ISMS addresses the needs of all relevant stakeholders.
+
+*   Identifying interested parties and their requirements is also necessary for designing and building a management system. The requirements of the interested parties are drawn, and usually, the legal, business and financial requirements in the Statement of Applicability are derived from this understanding.
+
+*   While a risk assessment is a vital part of the ISMS, the identification of interested parties is not primarily done to perform risk assessments. Instead, the risk assessment process is informed by the context of the organisation, which includes the requirements of the interested parties. **Risk assessment considers the organisation’s context and requirements** to address any negative or positive consequences related to ISO/IEC 27001:2022.
+
+*   The sources do not mention 'transferring the risk' or 'sharing the risk' with interested parties. Risk is either accepted, avoided, reduced, or transferred. Risk treatment and management is an internal process for the organisation to address threats.
+
+Therefore, the identification of interested parties is primarily done to **understand the context of the organisation**, which will then influence the scope and objectives of the ISMS, and inform the risk management processes.
 
 ---
 
