@@ -16,6 +16,21 @@
    - [Lead Implementer](PECB/pecb-candidate-handbook-iso-27001-lead-implementer.pdf)
 - [Online Exam Guide](PECB/Preparing-for-your-PECB-Online-Exam-Guide.pdf)
 
+## Official PECB Courseware
+
+- [Corporate Profile](PECB/Official%20Courseware/01_PECB-Corporate-Profile.pdf)
+- [Digital Experience Instructions](PECB/Official%20Courseware/Digital-Experience-Instructions-EN.PDF)
+- Word Files
+   - [Cover Page](PECB/Official%20Courseware/01a_27001-2022FD_Cover%20Page_V7.0.DOCX)
+   - [Index](PECB/Official%20Courseware/01b_27001-2022FD_Index_V7.0.DOCX)
+   - [Exercises - Worksheet](PECB/Official%20Courseware/02_27001-2022FD_Exercises%20Worksheet_V7.0.DOCX)
+   - [Exercises - Correction Key](PECB/Official%20Courseware/02_27001-2022FD_Exercises%20Worksheet_V7.0.DOCX)
+   - [Quizzes - Worksheet](PECB/Official%20Courseware/04_27001-2022FD_Quizzes%20Worksheet_V7.0.DOCX)
+   - [Quizzes - Correction Key](PECB/Official%20Courseware/05_27001-2022FD_Quizzes%20Correction%20Key_V7.0.DOCX)
+- Slides
+   - [Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
+   - [Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+
 ## Whiteboard Notes
 
 ![Whiteboard Notes](whiteboardNotes/IMG_5320.jpg)
