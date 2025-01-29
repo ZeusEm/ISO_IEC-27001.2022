@@ -40,7 +40,7 @@
 ![Whiteboard Notes](whiteboardNotes/IMG_5387.jpg)
 ![Whiteboard Notes](whiteboardNotes/IMG_5388.jpg)
 
-## Question Bank - Foundation Exam
+## Question Bank - Foundation Exam - MCQ Type
 
 ### Question 1
 *Anything that has value to the organization is known as?*
@@ -1893,6 +1893,7 @@ Therefore, only options 1 and 2 represent actual risk transfer, and option 3 is 
 - b) Do
 - c) Check
 - d) **Act**
+
 **Correct Answer:** d) Act
 
 *Explanation:* The correct answer is **d) Act**.
@@ -1914,6 +1915,7 @@ Therefore, while ISO/IEC 27001 doesn't explicitly mandate the PDCA cycle, the ac
 - b) **Internal Issues**
 - c) Information Security Policy and Objectives
 - d) Statement of Applicability
+
 **Correct Answer:** b) Internal Issues
 
 *Explanation:* The correct answer is **b) Internal Issues**.
@@ -1938,6 +1940,7 @@ Therefore, while internal issues are a key consideration in establishing and mai
 - b) Information regarding whether the listed controls are implemented in the organisation or not
 - c) Reason why the controls are implemented
 - d) **All of the Above**
+
 **Correct Answer:** d) All of the Above
 
 *Explanation:* The correct answer is **d) All of the Above**.
@@ -1967,6 +1970,7 @@ Therefore, the SoA must include the justification for inclusion of security cont
 - b) 1, 2, 3
 - c) 1, 2, 4
 - d) **1, 2, 5**
+
 **Correct Answer:** d) 1, 2, 5
 
 *Explanation:* The correct answer is **d) 1, 2, 5**.
@@ -1996,6 +2000,7 @@ Therefore, options 1, 2 and 5 are examples of statements that would be included 
 - b) **Risk Owners**
 - c) Internal Auditor
 - d) Top Management
+
 **Correct Answer:** b) Risk Owners
 
 *Explanation:* The correct answer is **b) Risk Owners**.
@@ -2018,6 +2023,7 @@ Therefore, the responsibility for approving the risk treatment plan and acceptin
 - b) Legal and Regulatory Requirements
 - c) Non - Disclosure Agreements
 - d) **All of the Above**
+
 **Correct Answer:** d) All of the Above
 
 *Explanation:* The correct answer is **d) All of the Above**.
@@ -2063,6 +2069,7 @@ Therefore, supplier agreements need to include all of the above elements related
 - b) **Context**
 - c) Evaluation
 - d) Operation
+
 **Correct Answer:** b) Context
 
 *Explanation:* The correct answer is **b) Context**.
@@ -2096,6 +2103,7 @@ Therefore, the clause that is part of the **PLAN** phase is **Context**.
 - b) **1, 2, 4, 5**
 - c) 2, 3, 4, 5
 - d) 2, 4, 5
+ 
 **Correct Answer:** b) 1, 2, 4, 5
 
 *Explanation:* The correct answer is **b) 1, 2, 4, 5**.
@@ -2120,6 +2128,7 @@ Therefore, based on the requirements of ISO/IEC 27001, information security obje
 - b) **Understand the context of the organisation**
 - c) Transfer the risk to them
 - d) Share the risk with them
+
 **Correct Answer:** b) Understand the context of the organisation
 
 *Explanation:* The correct answer is **b) Understand the context of the organisation**.
@@ -2139,6 +2148,180 @@ Here's why:
 *   The sources do not mention 'transferring the risk' or 'sharing the risk' with interested parties. Risk is either accepted, avoided, reduced, or transferred. Risk treatment and management is an internal process for the organisation to address threats.
 
 Therefore, the identification of interested parties is primarily done to **understand the context of the organisation**, which will then influence the scope and objectives of the ISMS, and inform the risk management processes.
+
+---
+
+## Question Bank - Foundation Exam - Case Study Type
+
+### Case Study - I
+_‘Good Security’ is one of the few software companies to have implemented ISMS based on ISO/IEC 27001:2022.  They have invited you to seek clarification on the requirements of the standard. Indicate whether the following statements are True or False with respect to their ISMS and also indicate the relevant clause numbers:_
+
+*   _It is sufficient if they understand the information security requirements of their customers because their business will grow only if they take care of their customer requirements._
+
+    *   **False.** While customer requirements are important, it is **not sufficient** to only focus on them. An organisation must consider **all interested parties**, both internal and external, as well as legal and regulatory requirements. This includes stakeholders like employees, contractors, legal authorities, and the public. The organisation's ISMS should address all of these relevant requirements. Ignoring other interested parties and requirements could lead to an ineffective or non-compliant ISMS.
+    *   **Relevant Clauses:** 4.2 (Understanding the needs and expectations of interested parties), 6.1 (Actions to address risks and opportunities).
+
+*   _It is mandatory for them to use a Risk assessment software application for their information security risk assessment process so that risk assessment results are clear._
+
+    *   **False.** The standard does not mandate the use of a specific software for risk assessments. The standard does require a documented risk assessment process, but how that process is implemented is up to the organisation. They can use any method that meets the requirements, whether it involves software, spreadsheets, or other tools. The key is that the results are consistent, valid and comparable.
+    *   **Relevant Clauses:** 6.1.2 (Information security risk assessment), 8.2 (Information security risk assessment).
+
+*   _ISMS Policy should include commitment to continual improvement._
+
+    *   **True.** The information security policy **must** include a commitment to continual improvement of the ISMS. This commitment is a fundamental requirement of the standard. The ISMS needs to be continuously improved to ensure its ongoing suitability, adequacy, and effectiveness.
+    *   **Relevant Clause:** 5.2 (Policy).
+
+*   _They shall continually improve various ISMS processes and interactions between the ISMS processes._
+    *   **True**. The organization is required to continually improve the suitability, adequacy and effectiveness of the ISMS, which includes its processes and their interactions. This is achieved by monitoring, measurement, analysis, and evaluation.
+    *   **Relevant Clauses**: 4.4 (Information security management system), 10.1 (Continual improvement).
+
+*   _ISMS scope shall cover the entire organization._
+
+    *   **False.** The scope of the ISMS **does not necessarily** have to cover the entire organisation. An organisation can choose to implement an ISMS for a specific part of the organisation, a particular function, or a specific location. The scope must be clearly defined and documented, and must include physical, informational, legal and organizational boundaries to which the ISMS applies.
+    *   **Relevant Clause**: 4.3 (Determining the scope of the information security management system).
+
+*   _The organization shall perform information security risk assessments at planned intervals or when significant changes are proposed or occur, taking account of the criteria established._
+
+    *  **True.** The organization **is required** to perform information security risk assessments at planned intervals and when significant changes occur. They must take into account the risk criteria established in clause 6.1.2a. This ensures that the risk assessments remain relevant and up-to-date.
+    *   **Relevant Clause**: 8.2 (Information security risk assessment).
+
+*   _They should establish criteria for ISMS processes._
+
+    *   **True.** The organization **must** establish criteria for its ISMS processes. This includes setting criteria for how these processes will be performed such as regularity, accountability, value generation, and end-to-end monitoring. The criteria provides the basis for the operational planning and control of the processes.
+    *   **Relevant Clause:** 8.1 (Operational planning and control).
+
+---
+
+## Notes on Important Topics for Foundation Exam
+
+Shared below are some bulleted notes to help you prepare for the ISO 27001 Foundation exam, based on the topics marked by the Instructor as important for the **Foundation** exam:
+
+*   **What is ISMS?**
+    *   An Information Security Management System (ISMS) is a framework that helps organisations manage and protect their information assets.
+    *   It involves establishing, implementing, maintaining, and continually improving information security within an organisation.
+    *   The ISMS is based on the three basic security principles: **confidentiality, integrity, and availability**.
+
+*   **Overall Standard:**
+    *   The ISO/IEC 27001:2022 standard includes **93 controls** in Annex A.
+    *   These controls are divided into **4 themes/categories:** Organisational, People, Physical and Technological controls.
+    *   The standard provides requirements for establishing, implementing, maintaining and continually improving an ISMS.
+
+*   **Why study ISO 27001?**
+    *   ISO/IEC 27001 is the world's most popular standard for information security management.
+    *   Certification to this standard demonstrates an organisation's ability to safeguard information, ensuring trust and reliability.
+    *   Many global leaders and government organisations implement and certify their ISMS according to ISO/IEC 27001.
+    *   It helps organisations to protect systems, networks, programs, devices and data from cyber-attacks.
+    *   It can be used for third party certification.
+    *   It is a framework to manage information security related risks and protect important information.
+
+*   **What is CIA?**
+    *   CIA stands for **Confidentiality, Integrity, and Availability**, the core principles of information security.
+    *   **Confidentiality** ensures information is not disclosed to unauthorised parties.
+    *   **Integrity** maintains the accuracy and completeness of data.
+    *   **Availability** ensures that information is accessible when needed.
+
+*  **Statement of Applicability (SOA)**
+    *   The SOA is a crucial document derived from the risk register.
+    *   It contains all necessary controls that the organisation has determined as necessary to modify information security risks.
+    *   It lists all the controls applicable to the ISMS scope, whether implemented or not.
+    *   It should include justification for inclusion or exclusion of each control.
+    *   The SOA should reference the ISO/IEC 27001:2022 standard and have a version number.
+    *   Auditors should verify that the controls in the SOA align with the risk management process.
+
+*   **Scope of ISMS:**
+    *   The scope defines the boundaries and applicability of the ISMS.
+    *   It should consider external and internal issues, as well as the needs and expectations of interested parties.
+    *   The scope can be limited to parts of the organisation or cover the entire organisation.
+    *   It must be documented and should be clear in terms of business areas, organisation, location, and security requirements.
+    *   The scope is not necessarily the same as the scope of an organisation's certification.
+
+*   **Risk Definitions**:
+    *   **Risk** is the potential for loss, damage, or destruction of information assets.
+    *   **Risk Assessment (RA)** is the process of identifying, analysing, and evaluating risks.
+    *   **Risk Treatment Plan (RTP)** involves selecting appropriate options to modify risks, considering the results of the risk assessment.
+    *   **Residual Risk** is the remaining risk after risk treatment measures have been applied.
+    *   **Risk acceptance criteria** should be established and maintained.
+    *   The risk assessment process should be documented.
+
+*   **How Risk is Calculated:**
+    *   Risk is calculated based on the potential **impact** and **likelihood** of a threat exploiting a vulnerability.
+    *   **Impact** refers to the potential consequences if a risk materialises.
+    *   **Likelihood** is the probability of the risk occurring.
+
+*  **Threat and Vulnerability**
+    *  **Threat** is something that can exploit a vulnerability.
+    *  **Vulnerability** is a weakness in an asset that can be exploited.
+
+*   **Top Management Questions:**
+    *   Top management must demonstrate leadership and commitment to the ISMS.
+    *   They are responsible for establishing the information security policy and objectives.
+    *   They should ensure resources are available for the ISMS.
+    *   They are also responsible for reviewing the ISMS's performance.
+
+*  **Internal Audit Function**
+    *   Internal audits are conducted at planned intervals to assess the ISMS effectiveness and conformity.
+    *   The audit programme should consider the importance of processes and results of previous audits.
+    *   Auditors should be objective and impartial.
+    *   Audit results must be reported to relevant management.
+
+*   **Step-by-Step Risk Assessment Process:**
+    *   Identify information assets and related threats and vulnerabilities.
+    *   Evaluate the impact of potential security incidents.
+    *   Calculate the likelihood of those events occurring.
+    *   Estimate the level of risk based on impact and likelihood.
+    *   Compare the results of the risk analysis with the risk criteria.
+    *   Prioritise risks for treatment.
+    *   Assign risk owners.
+
+*   **Mandatory Documents:**
+    *   The scope of the ISMS.
+    *   Information security policy and topic-specific policies.
+    *   Information security risk assessment process and results.
+    *   Information security risk treatment plan.
+    *   Information security objectives.
+    *   Statement of Applicability (SOA).
+    *   Evidence of monitoring and measurement results.
+    *   Internal audit program and results.
+    *   Management review results.
+    *   Nonconformities and corrective actions.
+
+*   **Number of Controls in Annex A:**
+    *   There are 93 controls in Annex A of ISO/IEC 27001:2022.
+
+*   **Transition from 2013 to 2022 Standard:**
+    *   The 2022 version has 93 controls, reduced from the 2013 standard.
+    *   The controls are now categorised under 4 themes/categories instead of 14 domains.
+    *   Changes were made to make the standard more relevant to the latest security threats and technologies.
+
+*   **ISMS Objectives:**
+    *   Objectives should be consistent with the information security policy.
+    *   They should be measurable, where practical.
+    *   They should consider applicable security requirements and the results of risk assessments.
+    *   The organisation should develop plans for achieving its objectives.
+    *   Achievement of objectives should be monitored.
+
+*   **Clauses:**
+    *   ISO/IEC 27001:2022 has clauses 4 to 10 containing the requirements for an ISMS.
+    *   Clause 4: Context of the organization.
+    *   Clause 5: Leadership.
+    *   Clause 6: Planning.
+    *   Clause 7: Support.
+    *   Clause 8: Operation.
+    *   Clause 9: Performance evaluation.
+    *   Clause 10: Improvement.
+
+*   **4 Domains:**
+    *   The 93 controls in Annex A are divided into 4 categories or themes: Organisational, People, Physical and Technological controls.
+    *   Organisational controls (37).
+    *   People controls (8).
+    *   Physical controls (14).
+    *   Technological controls (34).
+
+*   **Risk Treatment Options:**
+    *   Risk treatment options include accepting the risk, avoiding the risk, mitigating the risk by applying controls to reduce it, or transferring the risk.
+    *   The chosen treatment option should be appropriate for the context of the risk.
+
+I have tried to incorporate the most relevant information from the sources related to the topics you've provided. Remember to cross-reference these points with the actual text in the sources for a more complete understanding.
 
 ---
 
