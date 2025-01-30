@@ -2454,31 +2454,43 @@ _Good Health Hospital has recently implemented  ISMS based on ISO/IEC 27001:2022
 
 _You have been provided with various control measures that the companies have taken for the identified risks for their products and services.  Please state whether it is ‘Conforming’ {C}  or ‘Non-Conforming’ {NC}:_
 
-*   **21.1 IT System Administrator creates and maintains user identities and user access rights based on request from HRMS but does not review and/reconciles user identities and user access rights [NC]**
+*   **IT System Administrator creates and maintains user identities and user access rights based on request from HRMS but does not review and/reconciles user identities and user access rights [NC]**
 
     *   This is non-conforming. The sources indicate that the full lifecycle of identities should be managed. This includes not only creation but also regular review and reconciliation of user access rights. This ensures that access is removed when no longer required, such as upon termination or change of responsibility.
 
-*   **21.2 The policies for information security are published on the internal shared folder. [NC]**
+*   **The policies for information security are published on the internal shared folder. [NC]**
 
     *   This is non-conforming. While publishing policies is necessary, they must also be communicated to and acknowledged by relevant personnel and interested parties. Simply placing them on a shared folder does not ensure that all relevant individuals are aware of and understand the policies.
 
-*   **21.3 Information Asset inventory is maintained with the details of the information assets, Asset owner for each asset but date of purchase, support contract details not included in Information Asset inventory [NC]**
+*   **Information Asset inventory is maintained with the details of the information assets, Asset owner for each asset but date of purchase, support contract details not included in Information Asset inventory [C]**
 
-    * This is non-conforming. The sources state that an inventory of information and other associated assets, including owners, should be developed and maintained. While the description states the inventory includes asset owners, it is missing key details such as date of purchase and support contract details, which are important for managing the assets effectively.
+    * This is conforming. Refer Page 74 of Delegate Notes.
 
-*   **21.4 SecureWell has a SOC team which collects threat intelligence from free threat feeds in their email, SOC team analyses the threat feeds for applicability to the organization and sends action items to the CIO for implementing the actions. [C]**
+*   **SecureWell has a SOC team which collects threat intelligence from free threat feeds in their email, SOC team analyses the threat feeds for applicability to the organization and sends action items to the CIO for implementing the actions. [C]**
 
     * This is conforming. The sources indicate that information relating to information security threats should be collected and analyzed to produce threat intelligence. It also specifies that a process for actioning threat advisories should be in place. The description indicates that these steps are being taken, though the source of the threat feed is perhaps not ideal.
 
-*   **21.5 ‘TreatWell’ processes sensitive health information of the patients. HR team takes Non-Disclosure Agreement (NDA) with all the employees as a commitment not to disclose sensitive information but the NDA does not specifically state applicability of the NDA after quitting the organization. Exit checklist does not include any clause about applicability of NDA [NC]**
+*   **‘TreatWell’ processes sensitive health information of the patients. HR team takes Non-Disclosure Agreement (NDA) with all the employees as a commitment not to disclose sensitive information but the NDA does not specifically state applicability of the NDA after quitting the organization. Exit checklist does not include any clause about applicability of NDA [NC]**
 
     *   This is non-conforming. The sources highlight that confidentiality or non-disclosure agreements should reflect the organization’s needs for the protection of information. It should clarify the employee's obligations even after they leave the organisation. The description indicates that the NDA does not explicitly address post-employment obligations and that the exit checklist is also missing this clause, therefore it is non-conforming.
 
-*   **21.6 ‘DoWell’ is a Business Process Outsourcing company providing backoffice support for financial institutions. DoWell processes KYC (Know Your Customer) info of the customers of their clients and hence stores KYC data in their database. DoWell has not framed a ‘Data Retention Policy’ and the database includes data of some customers who are no longer serviced by DoWell [NC]**
+*   **‘DoWell’ is a Business Process Outsourcing company providing backoffice support for financial institutions. DoWell processes KYC (Know Your Customer) info of the customers of their clients and hence stores KYC data in their database. DoWell has not framed a ‘Data Retention Policy’ and the database includes data of some customers who are no longer serviced by DoWell [NC]**
 
     * This is non-conforming. The sources state that information should be deleted when it is no longer required. The description indicates that DoWell has not created a data retention policy and is storing data of customers that it no longer services, therefore it is non-conforming.
 
-*   **21.7 Media are disposed of using a formal procedure when they are no longer required. [C]**
+*   **Media are disposed of using a formal procedure when they are no longer required. [C]**
+
+    *   This is conforming. The sources suggest that storage media should be managed through their entire lifecycle, including disposal. The description indicates that a formal procedure is in place for media disposal, which aligns with this requirement. Further details on the procedure may be necessary to confirm full conformance but from the information available, this is conforming.
+
+*   **The old laptops in working condition are donated, without  securely wiping the data,  to a charity organization to enable them  to use them for their educational purposes. [NC]**
+
+    *   The sources highlight the importance of secure disposal or re-use of equipment. Specifically, control A.7.14 states that items of equipment containing storage media shall be verified to ensure that any sensitive data and licensed software has been removed or securely overwritten prior to disposal or re-use. This is further emphasised in the plain English explanation of this control which states "Information stored on the equipment should be erased, overwritten, or destroyed in a non-retrievable manner so that malicious parties cannot access information". The sources also note that "simple deleting of files is usually not enough" . By donating laptops without securely wiping the data, the organisation is failing to adhere to the requirement to protect sensitive information from unauthorised access. Additionally, control A.8.10 requires that information stored in information systems, devices or in any other  storage media should be deleted when no longer required, taking into consideration regulatory or contractual requirements. Therefore, donating laptops without securely wiping the data is a clear non-conformity.
+
+*   **System administrator regularly takes backup of the application data based by running a backup script daily but recovery testing is never done to test the backed up data. [NC]**
+
+    *   This is conforming. The sources suggest that storage media should be managed through their entire lifecycle, including disposal. The description indicates that a formal procedure is in place for media disposal, which aligns with this requirement. Further details on the procedure may be necessary to confirm full conformance but from the information available, this is conforming.
+
+*   **The old laptops in working condition are donated, without  securely wiping the data,  to a charity organization to enable them  to use them for their educational purposes. [NC]**
 
     *   This is conforming. The sources suggest that storage media should be managed through their entire lifecycle, including disposal. The description indicates that a formal procedure is in place for media disposal, which aligns with this requirement. Further details on the procedure may be necessary to confirm full conformance but from the information available, this is conforming.
 
