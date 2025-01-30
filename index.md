@@ -2151,6 +2151,229 @@ Therefore, the identification of interested parties is primarily done to **under
 
 ---
 
+### Question 78
+*Which of the following should be mandatorily documented as per ISO/IEC 27001:2022 standards requirements?*
+
+- a) Interested Parties Analysis
+- b) **Scope of the information security management system**
+- c) Communication Plan
+- d) All of the above
+
+**Correct Answer:** b) Scope of the information security management system
+
+*Explanation:* The correct answer is **b) Scope of the information security management system**.
+
+According to the sources, the following are requirements for documented information:
+
+*   **Scope of the ISMS**. The organisation must determine the boundaries and applicability of the ISMS to establish its scope, considering internal and external issues, requirements of interested parties, and interfaces and dependencies. The scope must be available as documented information.
+*   **Information Security Policy**. The information security policy needs to be documented and made available to interested parties.
+*   **Results of information security risk assessment and treatment**. The organisation must retain documented information about the risk assessment and risk treatment processes.
+*   **Information security objectives and plans**. The organisation must establish information security objectives and plans to achieve them. These must be documented.
+*   **Evidence of monitoring and measurement results**. The organization must document the results of monitoring, measurement, analysis and evaluation.
+*   **Evidence of the audit programme(s) and the audit results**. Internal audit programs and results must be documented.
+*   **Evidence of the results of the management reviews**. Results of management reviews must be documented.
+*    **Evidence of the nature of nonconformities and any subsequent actions taken and results of any corrective action**. Nonconformities and any subsequent actions taken must be documented as well as the results of corrective actions.
+*   **Statement of Applicability (SoA)**. The organisation must produce a Statement of Applicability (SoA) that contains the necessary controls, justification for their inclusion, whether they are implemented or not and justification for excluding any of the Annex A controls.
+
+While the sources mention the importance of interested parties analysis and communication, they do not explicitly state that these need to be documented. Interested parties are identified as part of establishing the scope of the ISMS. The communication needs are to be identified, implemented, and maintained effectively. Therefore, while these are important aspects of an ISMS, they are not specifically mandated to be documented, as the scope of the ISMS is.
+
+The sources also note that the extent of documented information can differ from one organisation to another due to factors such as the size of the organisation and complexity of processes.
+
+---
+
+### Question 79
+*When you are auditing a transport company’s ISMS, which of the following ‘documented information’ is/are a requirement in ISO/IEC 27001:2022?*
+
+- a) Information security risk assessment process
+- b) The information security objectives
+- c) Evidence of competence
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+According to the sources, the following are requirements for documented information within an Information Security Management System (ISMS) according to ISO/IEC 27001:2022:
+
+*   **Information security risk assessment process**: Organisations are required to maintain documented information about their information security risk assessment process. This includes the risk criteria, methodology used, and how risks are identified, analysed and evaluated.
+*   **The information security objectives**: Organisations must establish information security objectives at relevant functions and levels, and these objectives must be documented. These objectives should be consistent with the information security policy, be measurable, and take into account applicable security requirements.
+*  **Evidence of competence**: Organisations need to determine the necessary competence of personnel, ensure they are competent, and retain documented information as evidence of their competence. This includes records of training, skills and experience.
+
+Therefore, when auditing a transport company's ISMS, auditors should expect to find documented information relating to the information security risk assessment process, the information security objectives, and evidence of competence. All of the above are mandatory requirements of the standard.
+
+---
+
+### Question 80
+*Which of the following documented information is/are are required to be maintained in an ISMS that is compliant to ISO/IEC  27001:2022?*
+
+- a) List of companies that provide training on ethical hacking
+- b) Forward schedule of natural threats
+- c) **Information security policy and the information security objectives**
+- d) All of the above
+
+**Correct Answer:** c) Information security policy and the information security objectives
+
+*Explanation:* The correct answer is **c) Information security policy and the information security objectives**.
+
+According to the sources, the following documented information is required to be maintained in an Information Security Management System (ISMS) that is compliant with ISO/IEC 27001:2022:
+
+*   **Information security policy**: Top management must establish an information security policy that is appropriate to the purpose of the organisation and includes information security objectives or provides the framework for setting them. The policy must include a commitment to satisfy applicable requirements and to continually improve the ISMS. The information security policy must be available as documented information and communicated within the organisation. It should also be available to interested parties as appropriate.
+*   **Information security objectives**: The information security policy should include information security objectives or provide the framework for setting them. The organisation should also develop plans for achieving these objectives, including what will be done, what resources are required, who is responsible, what is the timeframe, and how results will be evaluated. These objectives should be documented.
+*   **Scope of the ISMS**: The scope of the ISMS needs to be documented, including the boundaries of the ISMS.
+*   **Information security risk assessment process and results**: The organisation must retain documented information about the information security risk assessment process. This includes how risks are identified, analysed and evaluated, and the results of the risk assessment.
+*  **Information security risk treatment process and results**: The organisation must document the risk treatment process including the method for selecting risk treatment options and determining necessary controls. The risk treatment plan and the results of the risk treatment need to be documented.
+*   **Statement of Applicability (SoA)**: The organisation must produce a Statement of Applicability (SoA) that contains the necessary controls, justification for their inclusion, whether they are implemented or not, and the justification for excluding any of the Annex A controls.
+*   **Evidence of monitoring and measurement results**: The results of monitoring, measurement, analysis, and evaluation must be documented.
+*  **Evidence of the audit programme(s) and the audit results**: Internal audit programmes and the results of internal audits must be documented.
+*  **Evidence of the results of the management reviews**: The results of management reviews need to be documented.
+*   **Evidence of the nature of nonconformities and any subsequent actions taken and results of any corrective action**: Nonconformities and any subsequent actions taken must be documented, as well as the results of corrective actions.
+*   **Operational planning and control**: Documented information is needed to have confidence that the operational control processes have been carried out as planned.
+*   **Evidence of Competence**: The organisation needs to document evidence of the competence of personnel involved in the ISMS, such as training and skills.
+
+While the sources do discuss the importance of training, they do not require a list of training providers. Similarly, while the sources discuss the importance of threat intelligence, there is no requirement to document a forward schedule of natural threats. The core documented requirements for ISO 27001 include items such as the ISMS scope, the information security policy, objectives, risk assessments, and treatment plans, as well as monitoring, audit, and review results.
+
+Therefore, only option c), **information security policy and the information security objectives**, is explicitly required to be documented in an ISMS compliant with ISO/IEC 27001:2022 from the options provided.
+
+---
+
+### Question 81
+*Which of the following is not a requirement when creating and updating documented information for ISMS?*
+
+- a) Identification and description
+- b) Review and Approval
+- c) Version Control – Example : Acceptable usage policy_V1, Acceptable usage policy _V1.1 _ Acceptable usage policy_V2
+- d) **Information Rights of the document**
+
+**Correct Answer:** d) Information Rights of the document
+
+*Explanation:* The correct answer is **d) Information Rights of the document**.
+
+According to the sources, when creating and updating documented information for an Information Security Management System (ISMS), the following are requirements:
+
+*   **Identification and description:** Documented information should have a clear title, date, author, or reference number. This helps in uniquely identifying and understanding the purpose of the document.
+*   **Review and approval:** Documented information must be reviewed and approved for suitability and adequacy. This ensures that the content is accurate, appropriate and meets the needs of the ISMS.
+*  **Version Control:** It is necessary to control changes, such as using version control, to make sure that only current versions are in use and that obsolete documents are withdrawn. For example, a naming convention should be in place that specifies the current revision status of documents.
+
+The sources do not specify "Information Rights of the document" as a requirement for creating and updating documented information. While access controls are necessary to protect the documents, "Information Rights of the document" as a specific concept isn't mentioned as a requirement for creating and updating documentation.
+
+Therefore, of the options given, **Information Rights of the document** is not a requirement when creating and updating documented information for an ISMS.
+
+---
+
+### Question 82
+*In order to select appropriate information security risk treatment, we refer to:*
+
+- a) **Risk assessment results**
+- b) Threats database
+- c) Scope document
+- d) List of common vulnerabilities and exposures
+
+**Correct Answer:** a) Risk assessment results
+
+*Explanation:* The correct answer is **a) Risk assessment results**.
+
+Here's why, based on the sources:
+
+*   **Risk treatment is directly linked to risk assessment:** The sources clearly state that the selection of risk treatment options should be based on the results of the risk assessment. The risk treatment process involves selecting options to modify risks, and these options are informed by the nature and level of risk identified during the risk assessment.
+*   **Risk treatment modifies identified risks:** The goal of risk treatment is to modify information security risks. This means that you need to understand the specific risks before deciding on a treatment strategy. The risk assessment process provides the necessary information on the risks to be treated, including their potential consequences and likelihood.
+*  **Statement of Applicability:** The Statement of Applicability (SoA), which documents the chosen controls, is a result of the risk treatment process and is derived from the risk register. The risk register is created from the results of risk assessment.
+*  **Risk Treatment Plan**: A risk treatment plan should be formulated from the outputs of the risk assessment process, and should include necessary controls and how those controls are expected to modify the risk to meet risk acceptance criteria.
+
+Let's look at why the other options are not the primary basis for selecting risk treatments:
+
+*   **b) Threats database:** While a threats database can be a useful resource for *identifying* potential risks during the risk assessment process, it does not directly inform the selection of risk treatment options. Risk treatment is about responding to *identified* risks, not just potential threats.
+*   **c) Scope document:** The scope document defines the boundaries of the ISMS and is essential for determining the range of assets and processes to be included in the risk assessment. However, the scope document doesn't provide information on specific risks, and therefore it does not determine the appropriate risk treatment options.
+*   **d) List of common vulnerabilities and exposures:** A list of common vulnerabilities and exposures, like the threats database, helps in *identifying* possible vulnerabilities during risk assessment, but it is the risk assessment results that determine the necessary risk treatment.
+
+Therefore, the most appropriate answer is **a) Risk assessment results** because this is the direct input that informs the selection of risk treatment options.
+
+---
+
+### Question 83
+*Which of the following are true with respect to Risk Treatment?*
+
+- a) Risk Treatment is dependent on the results of Risk Assessment
+- b) Controls shall be identified necessary to implement Risk Treatment option
+- c) Risk Treatment Plan shall be acknowledged and approved by the Risk Owners
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Here's why, based on the sources and our conversation history:
+
+*   **a) Risk Treatment is dependent on the results of Risk Assessment**: The sources explicitly state that the selection of risk treatment options must take into account the results of the risk assessment. This means that you cannot determine how to treat a risk until you have a clear understanding of what the risk is, its potential impact, and the likelihood of it occurring. This dependency is a key principle of ISO/IEC 27001.
+
+*   **b) Controls shall be identified necessary to implement Risk Treatment option**:  The standard requires that an organisation determine all controls that are needed to implement its chosen risk treatment options. These necessary controls are those that are deemed essential to modify the risk and can come from various sources including Annex A of ISO/IEC 27001, sector-specific standards, or custom-designed controls. The **Statement of Applicability (SoA)** must include all the necessary controls identified.
+
+*   **c) Risk Treatment Plan shall be acknowledged and approved by the Risk Owners**: The sources emphasize that the risk treatment plan must be approved by the risk owners. This ensures that those who are accountable for the risks are involved in the decision-making process and agree to the proposed treatments and accept the residual risks.
+
+Therefore, all three statements are true with respect to risk treatment according to the ISO/IEC 27001 standard.
+
+*   **Risk treatment** is a crucial step in the ISMS process, and it should be driven by the information gained from the **risk assessment**.
+*   **Controls** are the practical measures that are put in place to implement the risk treatment options and they are necessary to modify risks.
+*   **Risk owners** must be involved in the process of risk treatment and need to approve the **risk treatment plan**.
+
+In short, the risk treatment process relies on the risk assessment, includes identifying necessary controls, and requires risk owner approval.
+
+---
+
+### Question 84
+*When selecting the controls, which of the following is/are correct about Controls listed in Annexure A?*
+
+- a) Annexure A contains a list of possible information security controls
+- b) It should be ensured that no necessary controls from Annexure A is overlooked
+- c) Information Security controls listed in Annex A are not exhaustive
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Here's why, based on the sources:
+
+*   **a) Annexure A contains a list of possible information security controls** This is explicitly stated in the sources. Annex A of ISO/IEC 27001:2022 provides a list of potential security controls that can be considered when building an Information Security Management System (ISMS). It serves as a reference point for organizations.
+
+*   **b) It should be ensured that no necessary controls from Annexure A is overlooked** The sources indicate that when selecting controls, organizations must compare the controls determined necessary through their risk assessment process with those listed in Annex A, to verify that no essential controls have been inadvertently omitted. This step is crucial to ensure a comprehensive approach to risk treatment.
+
+*   **c) Information Security controls listed in Annex A are not exhaustive** The sources also explicitly state that the controls listed in Annex A are not an exhaustive list. Organizations may need to implement additional controls beyond those in Annex A, depending on their specific risks, business context, and other requirements. Custom controls can be designed, or controls can be identified from other sources.
+
+Therefore, all the statements are correct regarding the controls listed in Annex A of ISO/IEC 27001:2022. Annex A is a **starting point**, but not all controls are necessary for every situation, and the list is not exhaustive. It is **essential to consider** the controls in Annex A to ensure no necessary controls are missed, while also recognizing that further controls may be required.
+
+---
+
+### Question 85
+*Which of the following is true for preparing Statement of Applicability?*
+
+- a) All Annexure controls to be included
+- b) **All controls that are necessary to implement the information security risk treatment should be included**
+- c) Provide justification for exclusions but need not include justification for inclusions
+- d) All included controls should be implemented
+
+**Correct Answer:** b) All controls that are necessary to implement the information security risk treatment should be included
+
+*Explanation:* The correct answer is **b) All controls that are necessary to implement the information security risk treatment should be included.**
+
+Here's why, based on the sources:
+
+*   **Statement of Applicability (SoA)**: The SoA is a documented statement that describes the controls that are relevant and applicable to an organisation's Information Security Management System (ISMS). It acts as a map of the implementation of the ISMS. It's a crucial document that demonstrates which controls are in use and why.
+*   **Necessary Controls**: The SoA must include all controls that are deemed necessary for the treatment of information security risks. These are the controls identified during the risk treatment process as essential for modifying the risk to meet the organisation’s risk acceptance criteria. These controls are derived from the risk register, which is created from the risk assessment results.
+*   **Risk Treatment**: The selection of controls is an outcome of the risk treatment process. The organisation identifies risk treatment options, and then determines the necessary controls to implement those options.
+*   **Not all Annex A Controls are Required:** The SoA **does not** need to include all controls listed in Annex A of ISO/IEC 27001. Annex A provides a list of *possible* controls, but not all of them will be applicable or necessary for every organisation. The selection of controls should be based on the outcome of the risk assessment and risk treatment process.
+*   **Justification for Inclusion and Exclusion**: The SoA must provide a justification for why each control is included and, equally importantly, a justification for any controls from Annex A that are excluded. This means that if a control from Annex A is not included, there needs to be a reason for this documented in the SoA.
+*   **Implementation Status**: The SoA also needs to state whether each necessary control has been implemented or not.
+
+Let's look at why the other options are incorrect:
+
+*   **a) All Annexure controls to be included**: This is incorrect. The SoA should include only the controls that are *necessary* based on the risk assessment and risk treatment processes, not *all* the controls listed in Annex A.
+*   **c) Provide justification for exclusions but need not include justification for inclusions**: This is incorrect. The SoA should provide a justification for both the inclusion of selected controls and the exclusion of any Annex A controls.
+*   **d) All included controls should be implemented**: This is incorrect. The SoA must indicate if the necessary controls are implemented or not, and if not, a justification is required. The SoA can include controls that are selected for implementation, and not just implemented controls.
+
+In summary, the SoA must include all the controls that are deemed *necessary* to implement the risk treatment plan. It should also provide justification for both inclusions and exclusions and state whether each control is implemented or not.
+
+---
+
 ## Question Bank - Foundation Exam - Case Study Type
 
 ### Case Study - I
@@ -2189,6 +2412,75 @@ _‘Good Security’ is one of the few software companies to have implemented IS
 
     *   **True.** The organization **must** establish criteria for its ISMS processes. This includes setting criteria for how these processes will be performed such as regularity, accountability, value generation, and end-to-end monitoring. The criteria provides the basis for the operational planning and control of the processes.
     *   **Relevant Clause:** 8.1 (Operational planning and control).
+
+### Case Study - II
+_Good Health Hospital has recently implemented  ISMS based on ISO/IEC 27001:2022. Indicate whether the following statements about Risk Assessment of the Hospital are True or False in relation to the requirements of ISMS based on ISO/IEC 27001:2022 :_
+
+*   _Risk assessment process shall be applied within and outside the scope of ISMS._
+
+    *   **False**. The risk assessment process is applied within the scope of the ISMS, not outside it. While there may be security considerations for assets outside the scope, the formal risk assessment process as part of the ISMS applies to assets and processes within the defined scope
+
+*   _All the controls in Annexure A shall be selected for any scope of ISMS._
+
+    *   **False**. It is not necessary to select all controls from Annex A. The selection of controls should be based on the organisation's specific risk assessment and treatment decisions. The controls in Annex A are a starting point, but not all of them will be necessary or appropriate for every organisation, or for every ISMS scope. The organisation must compare the controls identified in its risk assessment to those in Annex A to ensure no necessary controls are omitted.
+
+*   _Security requirements of patient records shall be included when selecting controls._
+
+    *   **True**. Security requirements related to patient records are part of the requirements of an ISMS, as they represent sensitive information that needs to be protected. The standard requires the identification and meeting of requirements regarding the preservation of privacy and protection of Personally Identifiable Information (PII) according to applicable laws, regulations and contractual requirements.
+
+*   _The information security risk treatment plan needs to be approved by risk owners._
+
+    *   **True**. The information security risk treatment plan must be approved by the risk owners. This ensures that those responsible for the risks are aware of, and agree with the proposed treatment actions.
+
+*   _To determine the risk level, potential consequence and likelihood values are required to be determined._
+
+    *   **True**. Determining the risk level involves assessing the potential consequences (impact) of a risk and the likelihood of it occurring. This is a fundamental part of the risk analysis process. The risk is a combination of impact and likelihood.
+
+*   _Information security risk assessments shall produce consistent, valid and comparable results._
+
+    *  **True**. The results of risk assessments should be consistent, valid, and comparable. This ensures that the risk assessment process is reliable and that the organisation can effectively compare risks and make informed decisions about their treatment.
+
+*   _Criteria for accepting the risks shall be developed and approved by management._
+
+    *   **True**. The organisation needs to establish and maintain risk acceptance criteria as part of its risk assessment process. These criteria should be developed, approved, and used to compare the results of risk analysis.
+
+*   _Identify risks associated with the loss of confidentiality, integrity and availability for information within the scope of the information security management system._
+
+    *   **True**. Identifying risks associated with the loss of confidentiality, integrity, and availability of information within the scope of the ISMS is a core requirement of the risk assessment process.
+
+---
+
+## Question Bank - Foundation Exam - Gap Assessments
+
+_You have been provided with various control measures that the companies have taken for the identified risks for their products and services.  Please state whether it is ‘Conforming’ {C}  or ‘Non-Conforming’ {NC}:_
+
+*   **21.1 IT System Administrator creates and maintains user identities and user access rights based on request from HRMS but does not review and/reconciles user identities and user access rights [NC]**
+
+    *   This is non-conforming. The sources indicate that the full lifecycle of identities should be managed. This includes not only creation but also regular review and reconciliation of user access rights. This ensures that access is removed when no longer required, such as upon termination or change of responsibility.
+
+*   **21.2 The policies for information security are published on the internal shared folder. [NC]**
+
+    *   This is non-conforming. While publishing policies is necessary, they must also be communicated to and acknowledged by relevant personnel and interested parties. Simply placing them on a shared folder does not ensure that all relevant individuals are aware of and understand the policies.
+
+*   **21.3 Information Asset inventory is maintained with the details of the information assets, Asset owner for each asset but date of purchase, support contract details not included in Information Asset inventory [NC]**
+
+    * This is non-conforming. The sources state that an inventory of information and other associated assets, including owners, should be developed and maintained. While the description states the inventory includes asset owners, it is missing key details such as date of purchase and support contract details, which are important for managing the assets effectively.
+
+*   **21.4 SecureWell has a SOC team which collects threat intelligence from free threat feeds in their email, SOC team analyses the threat feeds for applicability to the organization and sends action items to the CIO for implementing the actions. [C]**
+
+    * This is conforming. The sources indicate that information relating to information security threats should be collected and analyzed to produce threat intelligence. It also specifies that a process for actioning threat advisories should be in place. The description indicates that these steps are being taken, though the source of the threat feed is perhaps not ideal.
+
+*   **21.5 ‘TreatWell’ processes sensitive health information of the patients. HR team takes Non-Disclosure Agreement (NDA) with all the employees as a commitment not to disclose sensitive information but the NDA does not specifically state applicability of the NDA after quitting the organization. Exit checklist does not include any clause about applicability of NDA [NC]**
+
+    *   This is non-conforming. The sources highlight that confidentiality or non-disclosure agreements should reflect the organization’s needs for the protection of information. It should clarify the employee's obligations even after they leave the organisation. The description indicates that the NDA does not explicitly address post-employment obligations and that the exit checklist is also missing this clause, therefore it is non-conforming.
+
+*   **21.6 ‘DoWell’ is a Business Process Outsourcing company providing backoffice support for financial institutions. DoWell processes KYC (Know Your Customer) info of the customers of their clients and hence stores KYC data in their database. DoWell has not framed a ‘Data Retention Policy’ and the database includes data of some customers who are no longer serviced by DoWell [NC]**
+
+    * This is non-conforming. The sources state that information should be deleted when it is no longer required. The description indicates that DoWell has not created a data retention policy and is storing data of customers that it no longer services, therefore it is non-conforming.
+
+*   **21.7 Media are disposed of using a formal procedure when they are no longer required. [C]**
+
+    *   This is conforming. The sources suggest that storage media should be managed through their entire lifecycle, including disposal. The description indicates that a formal procedure is in place for media disposal, which aligns with this requirement. Further details on the procedure may be necessary to confirm full conformance but from the information available, this is conforming.
 
 ---
 
