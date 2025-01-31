@@ -31,6 +31,11 @@
    - [Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
    - [Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
 
+## Practice Tests
+
+- Foundation Exam
+   - [150 Q&A](practiceTests/ISO-27001-Foundation-Practice-Tests-150-Questions-And-Explanations-Based-On-The-ISO-27001-Foundation-Exam-Erik-Rorstrom.pdf)
+
 ## Whiteboard Notes
 
 ![Whiteboard Notes](whiteboardNotes/IMG_5320.jpg)
