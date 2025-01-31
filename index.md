@@ -2374,6 +2374,112 @@ In summary, the SoA must include all the controls that are deemed *necessary* to
 
 ---
 
+### Question 86
+*Which of the following shall be used in order to continually improve the effectiveness of the ISMS?*
+
+- a) Monitoring & Analyzing information security metrics
+- b) Periodical internal audit
+- c) Management review
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d. All of the above**. Here's why, based on the sources:
+
+*   **Monitoring and Analysing Information Security Metrics**: The sources emphasize that an organisation must evaluate its information security performance and the effectiveness of the ISMS. This involves monitoring, measuring, analysing and evaluating the results, and the information collected through this process is used to identify areas for improvement.  Many devices can be monitored, such as anti-malware, firewalls, and intrusion detection systems. Various logs can be analysed and evaluated.  The sources also note that the results of monitoring and measurement should be analysed and evaluated, and this can show how well the ISMS is working.
+*   **Periodical Internal Audit**: Internal audits are a crucial part of the ISMS. The organisation needs to conduct internal audits at planned intervals to determine if the ISMS conforms to the organisation's own requirements and the requirements of ISO/IEC 27001, and whether the ISMS is effectively implemented and maintained.  The results of the audit are reported to top management, and the identification of nonconformities is part of the process of continual improvement.
+*   **Management Review**: Top management is required to review the ISMS at planned intervals. This review considers various factors including feedback on information security performance, results of risk assessments, and opportunities for continual improvement. The output of these reviews includes decisions related to continual improvement and changes to the ISMS.  The review by top management ensures that the ISMS remains suitable, adequate, and effective.
+
+All three elements – **monitoring and analysis of metrics, internal audits, and management reviews** – work together to drive the continual improvement of the ISMS. They help identify weaknesses, nonconformities, and opportunities for enhancement, thus ensuring the ISMS is constantly evolving and improving.
+
+---
+
+### Question 87
+*Which of the following option is correct when monitoring, measurement, analysis and evaluation*
+
+- a) Frequency of monitoring and measuring shall be performed
+- b) Responsibility for monitoring and measuring shall be determined
+- c) When and who will do the analysis of the monitoring and measurement shall be determined
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**. Here's a breakdown of why each component is essential for effective monitoring, measurement, analysis, and evaluation within an ISMS, according to the sources:
+
+*   **a) Frequency of monitoring and measuring shall be performed**: The sources explicitly state that an organisation needs to determine *when* the monitoring and measuring should be performed. This refers to the **regularity** at which processes are repeated. This ensures that data is consistently collected, and that any trends or anomalies are identified in a timely manner.
+
+*   **b) Responsibility for monitoring and measuring shall be determined**: The sources highlight the need to specify *who* will monitor and measure. **Accountability** is key, and each process should have an identified owner. Determining responsibility ensures that there are clear roles and that monitoring activities are carried out by competent individuals.
+
+*  **c) When and who will do the analysis of the monitoring and measurement shall be determined**: The sources stipulate the need to determine *when* the results from monitoring and measurement shall be analysed and evaluated, and *who* will analyse and evaluate these results. This ensures that collected data is not just passively recorded, but is actively interpreted to find areas of improvement.
+
+**In summary**, all the options listed are crucial for a robust monitoring, measurement, analysis, and evaluation process in an ISMS. Therefore, the correct answer is **d) All of the above**. These activities are fundamental to understanding the effectiveness of the ISMS and driving continual improvement.
+
+---
+
+### Question 88
+*Greenhouse Hospitals has recently implemented an Information Security Management System based on ISO/IEC 27001:2022. Which of the following are relevant for discussion during the management review?*
+
+- a) **Changes in external and internal issues that are relevant to the ISMS**
+- b) Results of statutory audits conducted by external auditors
+- c) Customer Satisfaction survey report
+- d) None of the above
+
+**Correct Answer:** a) Changes in external and internal issues that are relevant to the ISMS
+
+*Explanation:* The correct answer is **a) Changes in external and internal issues that are relevant to the ISMS**. Here's why, based on the sources:
+
+*   **Management Review Inputs**: The sources specify the required inputs for a management review of an Information Security Management System (ISMS). According to these sources, a management review *shall* include consideration of **changes in external and internal issues that are relevant to the ISMS**.
+
+*   **Relevance to ISMS**: The management review should focus on matters that directly impact the ISMS. External and internal issues can significantly affect the ISMS's effectiveness. These can include changes to the business environment, legal requirements, technology, and the organisation itself.
+
+*   **External Issues** Examples of external issues include legislation, social and cultural factors, financial, economic, and political considerations, competition and market trends, and trends in information security.
+*   **Internal Issues**: Examples of internal issues include the organisation's structure, governance, decision making, objectives, and resources.
+
+*   **Other Options**:
+    *   **b) Results of statutory audits conducted by external auditors**: While external audit results are important for the organisation's overall compliance, the sources specifically mention that the management review should include a discussion of *internal* audit results.
+    *   **c) Customer Satisfaction survey report**: Customer satisfaction reports are not listed as a specific requirement for input into the management review for an ISMS as per the sources.
+    *  **d) None of the above**: Since option a) is a valid input, this cannot be the correct answer.
+
+*   **Continual Improvement**: The goal of the management review is to ensure the ISMS's continuing suitability, adequacy and effectiveness. Changes in the external and internal context of the organisation are important considerations for driving improvement within the ISMS.
+
+**In summary**, while other types of information can be valuable to an organisation, the **ISO/IEC 27001:2022 standard requires the management review to specifically include changes in external and internal issues that are relevant to the ISMS**. Therefore, option a) is the correct answer.
+
+---
+
+### Question 89
+*Which of the following evidence demonstrates that internal ISMS audits process is complete?*
+
+- a) Annual ISMS audit plan is authorised by senior management
+- b) **Follow up report is available on verification and closure of ISMS audit findings**
+- c) List of ISMS auditors trained has been updated.
+- d) ISMS audit report format is approved and issued along with an approved audit checklist
+
+**Correct Answer:** b) Follow up report is available on verification and closure of ISMS audit findings
+
+*Explanation:* The correct answer is **b) Follow up report is available on verification and closure of ISMS audit findings**. Here's why, based on the sources:
+
+*   **Completeness of Internal Audit Process:** The sources outline several aspects of the internal audit process, but the key indicator of completion is the **verification and closure of audit findings**. A follow-up report demonstrates that the necessary actions have been taken to address any identified issues.
+
+*   **Follow-up on Corrective Actions**: The sources emphasize that management responsible for the area being audited must ensure that any necessary corrections and **corrective actions** are taken. It is the responsibility of the auditee to develop a solution. Therefore, a follow-up report confirming the implementation and verification of these corrective actions is crucial for demonstrating that the audit process is complete.
+
+*   **Other Options:**
+    *   **a) Annual ISMS audit plan is authorised by senior management:** While an authorised audit plan is a necessary starting point, it only indicates that the audit process is planned and approved, not that it has been completed.
+    *   **c) List of ISMS auditors trained has been updated:** This indicates that the organisation has maintained a list of trained personnel, which is a part of competence management, not the completion of the audit process.
+    *   **d) ISMS audit report format is approved and issued along with an approved audit checklist:** While an approved audit report format and checklist are essential for conducting a consistent and effective audit, they do not demonstrate that the audit process has been completed.
+
+*   **Key Stages of Internal Audit**:  The internal audit process includes the following stages:
+    *   **Planning and scheduling**: Audits should be planned based on the importance of the processes and the results of previous audits.
+    *   **Conducting the audit**: The audit is conducted by independent personnel, using a defined scope and criteria.
+    *   **Reporting findings**: The results of the audit are reported to relevant management.
+    *   **Implementing Corrective actions**: The auditee is responsible for taking any necessary corrections and corrective actions based on the audit report.
+    *   **Verification of actions**: The follow up report should verify that the implemented solutions have addressed the problems found.
+
+*   **Focus on Corrective Actions**: The sources stress that nonconformities identified during the audit should be managed with corrections and corrective actions, and that evidence of performing internal audits should be retained. Therefore, the follow up report demonstrating verification and closure of ISMS audit findings is the key piece of evidence that shows the process is complete.
+
+**In summary**, while all the options relate to the internal audit process, only **option b) provides evidence that the entire audit process, including the crucial follow-up on corrective actions, has been completed.** The other options represent preparatory or administrative steps but do not confirm the completion of the audit cycle. Therefore, option b is the correct answer.
+
+---
+
 ## Question Bank - Foundation Exam - Case Study Type
 
 ### Case Study - I
