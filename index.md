@@ -2749,7 +2749,32 @@ I have tried to incorporate the most relevant information from the sources relat
 
 ---
 
-## Lead Implementer - Question Bank
+## Question Bank - Foundation Exam - MCQ Type
+
+### Question 1
+*How does ISO/IEC 27000 define an ‘asset’ in relation to ISO/IEC 27001?*
+
+- a) **Anything that is of value to the organisation**
+- b) A physical item within the organisation
+- c) Digital and physical items owned by an organisation
+- d) Tangible and non-tangible items owned or rented by an organisation
+
+**Correct Answer:** a) Anything that is of value to the organisation
+
+*Explanation:* According to the sources, **ISO/IEC 27000 defines an asset as anything that has value to the organisation**. Therefore, the correct answer is **a) Anything that is of value to the organisation**.
+
+The sources also provide additional context regarding assets:
+*   An organization has many assets, and information itself is also considered an asset.
+*   Assets can include software, paper documents, supporting utilities, hardware, people, and information.
+*   Access control is a means to ensure that access to assets is authorized and restricted based on business and security requirements.
+*  An inventory of information and other associated assets, including owners, should be developed and maintained.
+*   Assets may be listed as a group for each service, project, or department.
+*   The 'owner' of an asset is an individual or entity that has approved management responsibility for controlling the production, development, maintenance, use, and security of the asset.
+*   There should be rules for the acceptable use and procedures for handling assets.
+*   Personnel and other interested parties should return all of the organization’s assets in their possession upon changes or termination of employment, contract, or agreement.
+*   Assets should be protected physically.
+*   Assets off-site should be protected taking into consideration the different risks involved by working outside the organization premises.
+*   Storage media should be managed through their life cycle of acquisition, use, transportation, and disposal.
 
 ---
 
