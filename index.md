@@ -35,6 +35,7 @@
 
 - Foundation Exam
    - [150 Q&A](practiceTests/ISO-27001-Foundation-Practice-Tests-150-Questions-And-Explanations-Based-On-The-ISO-27001-Foundation-Exam-Erik-Rorstrom.pdf)
+   - [Mock Exam/ 10 Mins](practiceTests/mockExam10mins.pdf)
 
 ## Whiteboard Notes
 
