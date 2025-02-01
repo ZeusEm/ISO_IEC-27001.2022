@@ -2776,6 +2776,138 @@ The sources also provide additional context regarding assets:
 *   Assets off-site should be protected taking into consideration the different risks involved by working outside the organization premises.
 *   Storage media should be managed through their life cycle of acquisition, use, transportation, and disposal.
 
+### Question 2
+*Annex A of ISO/IEC 27001 contains best practices for managing and securing information assets within an organisation. Which of the below are ISO 27001 control sets, as outlined in Annex A?*
+
+- a) Information security policies
+- b) Asset management
+- c) Access control
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+*   **Annex A** of ISO/IEC 27001 provides a list of control objectives and controls for information security. The controls are grouped into categories, and these include:
+    *   **Information security policies**
+    *   **Asset management**
+    *  **Access control**
+*   In the 2013 version of the standard, Annex A had 14 security clauses, 35 security categories and 114 security controls.
+*  In the 2022 version of the standard, the Annex A controls are organised into four categories: Organisational, People, Physical, and Technological. There are 93 controls in total.
+*   Controls are a means of managing risk, including policies, procedures, guidelines, practices or organisational structures.
+*   Organisations should select the appropriate controls based on the nature of threats and vulnerabilities.
+*   The Statement of Applicability (SoA) should include the controls that are deemed necessary after a risk assessment. The SoA should justify the inclusion of the selected controls and explain any exclusions of Annex A controls.
+* The controls listed in Annex A are not exhaustive, and organisations can design their own controls or identify them from other sources.
+
+### Question 3
+*The PDCA cycle is a 4-step model for carrying out change that is constantly repeated for continuous improvement. But what are those 4 steps?*
+
+- a) Plan, Design, Confirm, Act
+- b) **Plan, Do, Check, Act**
+- c) Prepare, Do, Critique, Appraisal
+- d) Prepare, Do, Critique, Assess
+
+**Correct Answer:** b) Plan, Do, Check, Act
+
+*Explanation:* The correct answer is **b) Plan, Do, Check, Act**.
+
+The Plan-Do-Check-Act (PDCA) model is a process improvement model that can be followed to improve an Information Security Management System (ISMS). The PDCA cycle is a four-step model for carrying out change, which is constantly repeated for continuous improvement. The four steps of the PDCA cycle are:
+*   **Plan:** Establish the objectives and processes necessary to deliver results in accordance with the organisation's information security policy. This involves identifying risks and opportunities and planning actions to address them.
+*   **Do:** Implement the planned processes and controls.
+*   **Check:** Monitor and measure the processes and controls against the information security policy, objectives, and requirements, and report the results.
+*   **Act:** Take actions to continually improve the performance of the ISMS, based on the results of the checks.
+
+Other models can be used to improve the ISMS process, including CMMi - IDEAL, Six Sigma - DMAIC, GMP, GLP, and the Malcolm Baldridge and EFQM Models of excellence. Although there is no emphasis on the PDCA cycle in the ISO/IEC 27001 standard, the management system is required to be established, implemented, maintained, and continually improved.
+
+### Question 4
+*Which of the below are current threats to many organisations?*
+
+- a) Fraud
+- b) Loss of information
+- c) Unauthorised access
+- d) **All of the above**
+
+**Correct Answer:** d) All of the above
+
+*Explanation:* The correct answer is **d) All of the above**.
+
+Many sources in the document identify various threats that organisations face, which include:
+*   **Fraud** is a risk that organisations face, especially through the misuse of email.
+*   **Loss of information** is a threat. This can occur through removable media or other means.
+*   **Unauthorised access** is a significant threat to networks, systems, and information. This can lead to a variety of issues, including data breaches and other security incidents.
+
+These are only some of the threats to organisations, and it's important for an organisation to identify risks, evaluate them, and take steps to mitigate them as part of their Information Security Management System (ISMS).
+
+### Question 5
+*What is the purpose of ISO/IEC 27000 in relation to ISO/IEC 27001?*
+
+- a) Provides information on security risk management
+- b) Provides guidelines for network security
+- c) **Provides terms and definitions commonly used in ISO/IEC 27001**
+- d) Outlines a code of practice for information security controls
+
+**Correct Answer:** c) Provides terms and definitions commonly used in ISO/IEC 27001
+
+*Explanation:* The correct answer is **c) Provides terms and definitions commonly used in ISO/IEC 27001**.
+
+*   **ISO/IEC 27000** provides a general overview of information security and the terms and definitions used in the ISO/IEC 27000 family of standards. This makes it a key reference for understanding the terminology used in **ISO/IEC 27001**.
+*   **ISO/IEC 27001** specifies the requirements for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS).
+*   **ISO/IEC 27002** offers guidelines for the implementation of the controls listed in Annex A of ISO/IEC 27001.
+*   **ISO/IEC 27005** provides guidance on information security risk management.
+*   **ISO/IEC 27033** provides guidelines for IT network security.
+
+Therefore, while other standards in the ISO/IEC 27000 family cover risk management, network security, and control implementation, **ISO/IEC 27000's specific purpose is to define the terms used within the family, and in particular within ISO/IEC 27001**.
+
+### Question 6
+*When should organisations perform an information security risk assessments?*
+
+- a) Monthly
+- b) Every six months or when significant changes are proposed to occur
+- c) Every 12 months, or when significant changes are proposed to occur
+- d) **At planned intervals or when significant changes are proposed to occur**
+
+**Correct Answer:** d) At planned intervals or when significant changes are proposed to occur
+
+*Explanation:* The correct answer is **d) At planned intervals or when significant changes are proposed to occur**.
+
+Organisations should perform information security risk assessments:
+*   **At planned intervals**. The frequency of these planned intervals should be appropriate to the ISMS.
+*   **When significant changes are proposed or occur**. This includes changes to the ISMS or its context, or when information security incidents have occurred.
+*   Risk assessments can be performed on all of the ISMS, or on specific parts of it, particularly when significant changes have an impact on those parts of the ISMS.
+*   The organisation should determine which changes or incidents require an additional information security risk assessment and how these assessments are triggered.
+
+The risk assessment process should be defined and applied. It should also be implemented and integrated into the organisation’s operations. A risk assessment should identify the information security risks associated with the ISMS. The risk assessment should consist of risk identification, risk analysis, and risk evaluation processes.
+
+The results of information security risk assessments must be documented. The documented information about the risk assessment process should contain:
+*   A definition of the risk criteria, including risk acceptance criteria, and the criteria for performing information security risk assessments.
+*   A rationale for the consistency, validity and comparability of results.
+*   A description of the risk identification process, including the identification of risk owners.
+*  A description of the process for analysing information security risks, including the assessment of potential consequences, realistic likelihood, and resultant level of risk.
+*  A description of the process for comparing the results with the risk criteria and the prioritisation of risks for risk treatment.
+
+The risk assessment process should be repeatable, so the same person, when carrying out a risk assessment over a period of time, will arrive at similar conclusions. The process should also be comparable, so that if several people use the same method, they will arrive at similar conclusions about the information security risk level.
+
+### Question 7
+*In line with clause 9.3, who shall review the organisation’s information security management system at planned intervals to ensure its continuing suitability, adequacy and effectiveness?*
+
+- a) External Auditor
+- b) Internal Auditor
+- c) Quality Manager
+- d) **Top Management**
+
+**Correct Answer:** d) Top Management
+
+*Explanation:* The correct answer is **d) Top Management**.
+
+According to clause 9.3 of ISO/IEC 27001:2022:
+*   **Top management** is responsible for reviewing the organisation's information security management system (ISMS) at planned intervals. This review is to ensure the ISMS's continuing suitability, adequacy, and effectiveness.
+*   The management review must include a consideration of several inputs, such as the status of actions from previous management reviews; changes in external and internal issues relevant to the ISMS; changes in the needs and expectations of interested parties; feedback on the information security performance, including trends in nonconformities, monitoring, and audit results; feedback from interested parties; results of risk assessment and status of risk treatment; and opportunities for continual improvement.
+*   The outputs of the management review should include decisions related to continual improvement opportunities and any needs for changes to the ISMS.
+*   The management review should be a meeting dedicated to the ISMS and should strictly adopt the agenda as required in clause 9.3.
+*   The top management should be personally engaged in the review, carrying out this mechanism to drive changes to the ISMS and direct continual improvement priorities.
+
+While other roles, such as internal auditors and quality managers, play crucial roles in the ISMS, the ultimate responsibility for reviewing the ISMS for its suitability, adequacy, and effectiveness lies with **top management**.
+
 ---
 
 &copy; [Lt Cdr Shubham Mehta](https://www.linkedin.com/in/shubham-mehta-5141172b3/), 2024
