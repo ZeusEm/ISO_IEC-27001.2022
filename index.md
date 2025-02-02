@@ -2908,6 +2908,18 @@ According to clause 9.3 of ISO/IEC 27001:2022:
 
 While other roles, such as internal auditors and quality managers, play crucial roles in the ISMS, the ultimate responsibility for reviewing the ISMS for its suitability, adequacy, and effectiveness lies with **top management**.
 
+### Question 8
+*Clause 5.2 focuses on the requirements related to the information security policy within an organisation. Who or what does clause 5.2 say shall establish an information security policy?*
+
+- a) The organisation
+- b) Top Management
+- c) The Quality Manager
+- d) The employees
+
+**Correct Answer:** b) Top Management
+
+*Explanation:* Clause 5.2 of ISO/IEC 27001:2022 states that **top management** shall establish an information security policy. Therefore, the correct answer is b) Top Management.
+
 ---
 
 &copy; [Lt Cdr Shubham Mehta](https://www.linkedin.com/in/shubham-mehta-5141172b3/), 2024
