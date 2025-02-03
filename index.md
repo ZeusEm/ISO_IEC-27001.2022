@@ -2920,6 +2920,26 @@ While other roles, such as internal auditors and quality managers, play crucial 
 
 *Explanation:* Clause 5.2 of ISO/IEC 27001:2022 states that **top management** shall establish an information security policy. Therefore, the correct answer is b) Top Management.
 
+### Question 9
+*Of what should those doing work under the organisation’s control be aware?*
+
+- a) The information security policy
+- b) Their contribution to the effectiveness of the information security system, including the benefits of improved information security performance
+- c) The implications of not confirming with the information security management system requirements
+- d) All of the above
+
+**Correct Answer:** b) Top Management
+
+*Explanation:* Those doing work under the organisation's control should be aware of all of the following:
+
+*   **The information security policy**.
+*   **Their contribution to the effectiveness of the information security management system (ISMS), including the benefits of improved information security performance**.
+*   **The implications of not conforming with the information security management system requirements**.
+
+Therefore, the correct answer is **d) All of the above**.
+
+The sources emphasize the importance of awareness training for all employees. If employees are aware of the ISMS, the level of compliance will likely be higher.  It's also noted that awareness of the policy does not require memorisation, but rather an understanding of the key policy commitments and their role in achieving them.
+
 ---
 
 &copy; [Lt Cdr Shubham Mehta](https://www.linkedin.com/in/shubham-mehta-5141172b3/), 2024
