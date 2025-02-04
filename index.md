@@ -2926,19 +2926,84 @@ While other roles, such as internal auditors and quality managers, play crucial 
 - a) The information security policy
 - b) Their contribution to the effectiveness of the information security system, including the benefits of improved information security performance
 - c) The implications of not confirming with the information security management system requirements
-- d) All of the above
+- d) **All of the above**
 
-**Correct Answer:** b) Top Management
+**Correct Answer:** d) All of the above
 
-*Explanation:* Those doing work under the organisation's control should be aware of all of the following:
+*Explanation:* The correct answer is **d) All of the above**.
 
+Those doing work under the organisation’s control should be aware of:
 *   **The information security policy**.
-*   **Their contribution to the effectiveness of the information security management system (ISMS), including the benefits of improved information security performance**.
+*   **Their contribution to the effectiveness of the information security management system**, including the benefits of improved information security performance.
 *   **The implications of not conforming with the information security management system requirements**.
 
-Therefore, the correct answer is **d) All of the above**.
+### Question 10
+*Within ISO standards, what does “shall” indicate?*
 
-The sources emphasize the importance of awareness training for all employees. If employees are aware of the ISMS, the level of compliance will likely be higher.  It's also noted that awareness of the policy does not require memorisation, but rather an understanding of the key policy commitments and their role in achieving them.
+- a) Recommendation
+- b) Permission
+- c) Capability
+- d) Requirement
+
+**Correct Answer:** d) Requirement
+
+*Explanation:* The correct answer is **d) Requirement**.
+
+Within the ISO/IEC 27001 standard, the term "shall" indicates a requirement. Specifically, the standard states that "the organization *shall* establish, implement, maintain and continually improve an information security management system". This demonstrates the use of "shall" to denote mandatory actions or conditions for an organization seeking to conform to the standard.
+
+The document also notes that "excluding any of the requirements specified in Clauses 4 to 10 is not acceptable when an organization claims conformity to this International Standard", further reinforcing that "shall" statements are requirements that must be met for compliance.
+
+### Question 11
+*How does ISO/IEC 27000 define an ‘information system’?*
+
+- a) A system of interacting entities that form a uniformed whole
+- b) **A set of applications, services, information technology assets or other information-handling components**
+- c) A set of integrated components for collecting, storing and processing data
+- d) Information-handling components including systems, services and networks
+
+**Correct Answer:** b) A set of applications, services, information technology assets or other information-handling components
+
+*Explanation:* The sources do not contain a direct definition of an 'information system' from ISO/IEC 27000. However, the sources do contain information that is relevant to this concept. Based on the provided material, here's an analysis of how an information system can be understood within the context of ISO/IEC standards:
+
+While the provided sources do not explicitly define "information system" using a specific definition from ISO/IEC 27000, the most appropriate response based on the concepts discussed would be **b) A set of applications, services, information technology assets or other information-handling components**. This is because:
+* The sources refer to **information assets** as the content of valuable information and the hardware or software where it is contained.
+*   The standard focuses on **protecting systems, networks, programs, devices, and data from cyber-attacks**. This indicates that an information system encompasses these various components.
+* The sources mention controls for **information processing facilities**.
+*   The sources note that an organisation needs to include **security related requirements** when acquiring or developing information systems and that changes to **information processing facilities and information systems** should be subject to change management.
+
+Although not a definition, it is clear from the sources that an "information system" involves a combination of hardware, software, services, and processes that handle information, as well as the measures implemented to protect them.
+
+The other options are less accurate:
+*   a) A system of interacting entities that form a uniformed whole: While this is a general definition of a system, it's not specific to an information system.
+*   c) A set of integrated components for collecting, storing and processing data: While this describes part of an information system, it doesn't include all elements (like networks, applications).
+*   d) Information-handling components including systems, services and networks: While this is close, option b includes IT assets which are key components of information systems.
+
+### Question 12
+*Within ISO/IEC 27001, which clause relates to leadership and the role of top management in the establishment, implementation, maintenance, and continual improvement of the ISMS?*
+
+- a) 4
+- b) **5**
+- c) 6
+- d) 7
+
+**Correct Answer:** b) 5
+
+*Explanation:* The correct answer is **b) 5**.
+
+Clause 5 of ISO/IEC 27001 specifically addresses **leadership** and the role of **top management** in the establishment, implementation, maintenance, and continual improvement of the Information Security Management System (ISMS).
+
+Here's why clause 5 is the correct answer, drawing from the sources:
+
+*   **Clause 5.1, Leadership and Commitment**: This section explicitly states that top management must demonstrate leadership and commitment to the ISMS. This includes ensuring that the information security policy and objectives are compatible with the organisation’s strategic direction. It also includes ensuring that the necessary resources for the ISMS are available.
+*   **Top management responsibilities**: Top management is responsible for integrating ISMS requirements into the organization's processes and for communicating the importance of effective information security management and conforming to ISMS requirements.
+*   **Policy**: Clause 5.2 specifies that top management is responsible for establishing an information security policy that is appropriate for the organisation's purpose, includes security objectives, and demonstrates a commitment to satisfying security requirements and to the continual improvement of the ISMS.
+*   **Organisational roles**: Clause 5.3 mandates that top management must ensure that the responsibilities and authorities for roles relevant to information security are assigned and communicated. Top management must also assign responsibility and authority for ensuring the ISMS conforms to the standard's requirements, as well as for reporting on the performance of the ISMS to top management.
+*   **Management support**: The sources emphasise that management support is vital for the ISMS and that leadership and commitment from top management play a significant role in implementation.
+
+The other clauses are related to different aspects of the ISMS:
+*   Clause 4: deals with the **context of the organisation**.
+*   Clause 6: focuses on **planning**.
+*   Clause 7: pertains to **support**.
 
 ---
 
