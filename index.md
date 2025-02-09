@@ -3005,6 +3005,46 @@ The other clauses are related to different aspects of the ISMS:
 *   Clause 6: focuses on **planning**.
 *   Clause 7: pertains to **support**.
 
+### Question 13
+*Clause 9.3 is titled ‘Management Review’, and is part of the broader section 9, which focuses on performance evaluation. In line with clause 9.3, how regularly shall top management review the organisation’s ISMS?*
+
+- a) Weekly
+- b) Monthly
+- c) Annually
+- d) **At planned intervals**
+
+**Correct Answer:** d) At planned intervals
+
+*Explanation:* The correct answer is d) **At planned intervals**.
+
+Clause 9.3.1 states that top management must review the organisation's information security management system **at planned intervals** to ensure its continuing suitability, adequacy and effectiveness. While for small organizations, one Management Review Meeting (MRM) per year may suffice, the standard requires reviews to occur at planned intervals, implying a flexible schedule determined by the organization's specific context and needs.
+
+### Question 14
+*An SoA is important because it aligns the information security management efforts with the organisation’s business objectives, facilitates risk management, supports compliance, and enables effective communication and resource allocation. It is a central document in the ISO 27001 framework, contributing to the establishment of a robust and continually improving information security management system. But what does SoA stand for?*
+
+- a) Statement of Applicability
+- b) Statement of Accountability
+- c) Statement of Actions
+- d) Statement of Affordability
+
+**Correct Answer:** a) Statement of Applicability
+
+*Explanation:* The correct answer is a) **Statement of Applicability**. The sources define the Statement of Applicability (SoA) as a documented statement describing the control objectives and controls that are relevant and applicable to the organization’s ISMS. It is a central component of ISO/IEC 27001. The SoA includes all the necessary controls, their justification for inclusion, whether they are implemented or not, and justification for excluding any controls from Annex A of ISO/IEC 27001. The SoA should be revised as the activities of the organisation change.
+
+### Question 15
+*OpenTech, headquartered in San Francisco, specializes in information and communication technology (ICT) solutions. Its clientele primarily includes data communication enterprises and network operators. The company's core objective is to enable its clients to transition smoothly into multi-service providers, aligning their operations with the complex demands of the digital landscape.
+Recently, Tim, the internal auditor of OpenTech, conducted an internal audit that uncovered nonconformities related to their monitoring procedures and system vulnerabilities. In response to these nonconformities, OpenTech decided to employ a comprehensive problem-solving approach to address the issues systematically. This method encompasses a team-oriented approach, aiming to identify, correct, and eliminate the root causes of the issues. The approach involves several steps: First, establish a group of experts with deep knowledge of processes and controls. Next, break down the nonconformity into measurable components and implement interim containment measures. Then, identify potential root causes and select and verify permanent corrective actions. Finally, put those actions into practice, validate them, take steps to prevent recurrence, and recognize and acknowledge the team's efforts.
+Following the analysis of the root causes of the nonconformities, OpenTech's ISMS project manager, Julia, developed a list of potential actions to address the identified nonconformities. Julia carefully evaluated the list to ensure that each action would effectively eliminate the root cause of the respective nonconformity. While assessing potential corrective actions, Julia identified one issue as significant and assessed a high likelihood of its recurrence. Consequently, she chose to implement temporary corrective actions. Julia then combined all the nonconformities into a single action plan and sought approval from top management. The submitted action plan was written as follows:
+"A new version of the access control policy will be established and new restrictions will be created to ensure that network access is effectively managed and monitored by the Information and Communication Technology (ICT) Department." However, Julia's submitted action plan was not approved by top management. The reason cited was that a general action plan meant to address all nonconformities was deemed unacceptable. Consequently, Julia revised the action plan and submitted separate ones for approval. Unfortunately, Julia did not adhere to the organization's specified deadline for submission, resulting in a delay in the corrective action process. Additionally, the revised action plans lacked a defined schedule for execution. Based on scenario 9, was it acceptable that the top management rejected the action plan submitted by Julia?*
+
+- a) No, top management should have approved the action plan submitted by Julia
+- b) No, a general action plan can be submitted to address all nonconformities at once
+- c) Yes, an action plan must be submitted to address each nonconformity separately
+
+**Correct Answer:** a) Statement of Applicability
+
+*Explanation:* The correct answer is a) **Statement of Applicability**. The sources define the Statement of Applicability (SoA) as a documented statement describing the control objectives and controls that are relevant and applicable to the organization’s ISMS. It is a central component of ISO/IEC 27001. The SoA includes all the necessary controls, their justification for inclusion, whether they are implemented or not, and justification for excluding any controls from Annex A of ISO/IEC 27001. The SoA should be revised as the activities of the organisation change.
+
 ---
 
 &copy; [Lt Cdr Shubham Mehta](https://www.linkedin.com/in/shubham-mehta-5141172b3/), 2024
