@@ -32,6 +32,7 @@
    - [Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
 - Video Tutorials (Lead Implementer ONLY)
   -  <a href="#S1">Section 1</a>
+  -  <a href="#S2">Section 2</a>
 
 ## Practice Tests
 
@@ -3137,6 +3138,36 @@ Let's look at why the other options are compliant:
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
         <source src="videoTutorials/Section+1 - 004.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 2
+
+<div id="S2" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/Section+2 - 001.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/Section+2 - 002.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/Section+2 - 003.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/Section+2 - 004.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
