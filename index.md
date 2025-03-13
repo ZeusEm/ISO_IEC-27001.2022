@@ -2944,7 +2944,7 @@ Those doing work under the organisation’s control should be aware of:
 - a) Recommendation
 - b) Permission
 - c) Capability
-- d) Requirement
+- d) **Requirement**
 
 **Correct Answer:** d) Requirement
 
@@ -3023,7 +3023,7 @@ Clause 9.3.1 states that top management must review the organisation's informati
 ### Question 14
 *An SoA is important because it aligns the information security management efforts with the organisation’s business objectives, facilitates risk management, supports compliance, and enables effective communication and resource allocation. It is a central document in the ISO 27001 framework, contributing to the establishment of a robust and continually improving information security management system. But what does SoA stand for?*
 
-- a) Statement of Applicability
+- a) **Statement of Applicability**
 - b) Statement of Accountability
 - c) Statement of Actions
 - d) Statement of Affordability
@@ -3040,7 +3040,7 @@ Following the analysis of the root causes of the nonconformities, OpenTech's ISM
 
 - a) No, top management should have approved the action plan submitted by Julia
 - b) No, a general action plan can be submitted to address all nonconformities at once
-- c) Yes, an action plan must be submitted to address each nonconformity separately
+- c) **Yes, an action plan must be submitted to address each nonconformity separately**
 
 **Correct Answer:** c) Yes, an action plan must be submitted to address each nonconformity separately
 
@@ -3060,7 +3060,7 @@ Last month, HealthGenic experienced a number of service interruptions due to the
 The top management of HealthGenic immediately informed the company that had developed the software about the issue. The software company fixed the issue; however, in the process of doing so, it modified some files that comprised sensitive information related to HealthGenic's patients. The modifications that were made resulted in incomplete and incorrect medical reports and, more importantly, invaded the patients' privacy.
 Based on scenario 8. how does the HealthGenic's negligence affect the ISMS certificate?*
 
-- a) HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals
+- a) **HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals**
 - b) HealthGenic will be able to renew the ISMS certificate, as they did not detect any information security incident in the past two years
 - c) HealthGenic might not be able to renew the ISMS certificate, as the internal audit lasted longer than planned
 
@@ -3077,6 +3077,33 @@ Option (c) states: "HealthGenic might not be able to renew the ISMS certificate,
 Considering the significant impact of the data modification and privacy breach, it indicates a failure in HealthGenic's ability to safeguard information. While the scenario doesn't explicitly state that management reviews weren't conducted at planned intervals, the occurrence of such a serious incident suggests a potential deficiency in the overall management of the ISMS, which is a key focus of management reviews. Therefore, the most plausible reason, based on the given options and the scenario, is that HealthGenic's negligence in allowing this incident to occur could lead to them not being able to renew their ISMS certificate, potentially linked to ineffective management oversight which should be addressed through management reviews.
 
 Therefore, the most fitting answer is **a) HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals**. This option, while not directly stated in the scenario, implies a potential systemic failure in the ISMS management that could have contributed to the incident and subsequently affect certification renewal.
+
+### Question 17
+*Scenario 4: TradeB. a commercial bank that has just entered the market, accepts deposits from its clients and offers basic financial services and loans for investments. TradeB has decided to implement an information security management system (ISMS) based on ISO/IEC 27001 Having no experience of a management [^system implementation, TradeB's top management contracted two experts to direct and manage the ISMS implementation project.
+First, the project team analyzed the 93 controls of ISO/IEC 27001 Annex A and listed only the security controls deemed applicable to the company and their objectives Based on this analysis, they drafted the Statement of Applicability. Afterward, they conducted a risk assessment, during which they identified assets, such as hardware, software, and networks, as well as threats and vulnerabilities, assessed potential consequences and likelihood, and determined the level of risks based on three nonnumerical categories (low, medium, and high). They evaluated the risks based on the risk evaluation criteria and decided to treat only the high risk category They also decided to focus primarily on the unauthorized use of administrator rights and system interruptions due to several hardware failures by establishing a new version of the access control policy, implementing controls to manage and control user access, and implementing a control for ICT readiness for business continuity Lastly, they drafted a risk assessment report, in which they wrote that if after the implementation of these security controls the level of risk is below the acceptable level, the risks will be accepted Which of the actions presented in scenario 4 is NOT compliant with the requirements of ISO/IEC 27001?*
+
+- a) The Statement of Applicability was drafted before conducting the risk assessment
+- b) TradeB selected only ISO/IEC 27001 controls deemed applicable to the company
+- c) The external experts selected security controls and drafted the Statement of Applicability
+
+**Correct Answer:** a) The Statement of Applicability was drafted before conducting the risk assessment
+
+*Explanation:* Based on the information in the standard, the action in Scenario 4 that is **NOT compliant with ISO/IEC 27001 requirements** is:
+
+**a) The Statement of Applicability was drafted before conducting the risk assessment**
+
+Here's why:
+
+*   The sources clearly state that the **Statement of Applicability (SOA) should be derived from the Risk Register**.
+*   The Risk Register, in turn, is a result of the information security risk assessment process. This process involves identifying assets, threats, vulnerabilities, analysing risks, and evaluating them to determine the necessary controls.
+*   According to the sources, the organisation should **compare the controls determined in the risk treatment process with those in Annex A** and document the necessary controls in the SOA, along with justifications for their inclusion or exclusion.
+*   Drafting the SOA *before* conducting the risk assessment means that the selection of applicable controls and the justifications would not be based on a systematic evaluation of the organisation's specific risks and treatment decisions. The SOA should be an **outcome of the risk assessment and risk treatment plan**.
+
+Let's look at why the other options are compliant:
+
+*   **b) TradeB selected only ISO/IEC 27001 controls deemed applicable to the company:** The sources emphasise that organisations do not need to implement all the controls listed in Annex A. The organisation should **select appropriate controls based on their risk assessment** and the specific needs of their information security management system. The SOA should then document which Annex A controls are applicable and implemented, and justify any exclusions.
+
+*   **c) The external experts selected security controls and drafted the Statement of Applicability:** While the ultimate responsibility for the ISMS lies with the top management, organisations may utilise external experts to assist with the implementation process, including risk assessment and control selection [paragraph before option a)]. The sources do not explicitly forbid external experts from being involved in these activities. However, it's crucial that the **controls selected are based on a proper risk assessment** conducted by the project team (which includes the experts) and that the SOA accurately reflects the outcomes of this process and is ultimately owned and approved by TradeB's management. The non-compliant part of the scenario is the *timing* of drafting the SOA, not necessarily who was involved in the drafting itself.
 
 ---
 
