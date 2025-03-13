@@ -2750,7 +2750,7 @@ I have tried to incorporate the most relevant information from the sources relat
 
 ---
 
-## Question Bank - Foundation Exam - MCQ Type
+## Question Bank - Lead Implementer Exam - MCQ Type
 
 ### Question 1
 *How does ISO/IEC 27000 define an ‘asset’ in relation to ISO/IEC 27001?*
@@ -3042,9 +3042,41 @@ Following the analysis of the root causes of the nonconformities, OpenTech's ISM
 - b) No, a general action plan can be submitted to address all nonconformities at once
 - c) Yes, an action plan must be submitted to address each nonconformity separately
 
-**Correct Answer:** a) Statement of Applicability
+**Correct Answer:** c) Yes, an action plan must be submitted to address each nonconformity separately
 
-*Explanation:* The correct answer is a) **Statement of Applicability**. The sources define the Statement of Applicability (SoA) as a documented statement describing the control objectives and controls that are relevant and applicable to the organization’s ISMS. It is a central component of ISO/IEC 27001. The SoA includes all the necessary controls, their justification for inclusion, whether they are implemented or not, and justification for excluding any controls from Annex A of ISO/IEC 27001. The SoA should be revised as the activities of the organisation change.
+*Explanation:* Yes, it was acceptable for top management to reject Julia's initial action plan.
+
+The scenario states that top management rejected Julia's initial action plan for being "too general". While the standard discusses the need for action plans to address nonconformities, they emphasise the importance of identifying the causes of each nonconformity and implementing appropriate corrective actions.
+
+According to the information on nonconformity and corrective action, when a nonconformity occurs, the organisation should evaluate the need for action to eliminate the causes of the nonconformity. Corrective actions are expected to be appropriate to the effects of the nonconformities encountered. This implies that the actions taken should be specific to the identified issues and their root causes. A general action plan might not adequately address the specific causes and consequences of each nonconformity.
+
+Furthermore, the process involves reviewing the nonconformity, determining its causes, and determining if similar nonconformities exist. A general plan might not demonstrate a thorough evaluation of each specific nonconformity and its underlying causes.
+
+Therefore, it is reasonable for top management to expect action plans that are detailed enough to address the specific root causes and consequences of the identified issues. A plan deemed "too general" would likely not meet this expectation, making its rejection acceptable. Option (c), which suggests that an action plan must be submitted to address each nonconformity separately, aligns with the principle of addressing specific causes with appropriate actions, although the sources do not explicitly mandate separate plans. However, the rejection of a general plan for lacking specificity supports the need for a more detailed approach for each nonconformity, making **option c) Yes, an action plan must be submitted to address each nonconformity separately** the most appropriate conclusion based on the information provided in the scenario and the underlying principles of managing nonconformities discussed in the sources.
+
+### Question 16
+*HealthGenic is a pediatric clinic that monitors the health and growth of individuals from infancy to early adulthood using a web-based medical software. The software is also used to schedule appointments, create customized medical reports, store patients' data and medical history, and communicate with all the [^involved parties, including parents, other physicians, and the medical laboratory staff.
+Last month, HealthGenic experienced a number of service interruptions due to the increased number of users accessing the software Another issue the company faced while using the software was the complicated user interface, which the untrained personnel found challenging to use.
+The top management of HealthGenic immediately informed the company that had developed the software about the issue. The software company fixed the issue; however, in the process of doing so, it modified some files that comprised sensitive information related to HealthGenic's patients. The modifications that were made resulted in incomplete and incorrect medical reports and, more importantly, invaded the patients' privacy.
+Based on scenario 8. how does the HealthGenic's negligence affect the ISMS certificate?*
+
+- a) HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals
+- b) HealthGenic will be able to renew the ISMS certificate, as they did not detect any information security incident in the past two years
+- c) HealthGenic might not be able to renew the ISMS certificate, as the internal audit lasted longer than planned
+
+**Correct Answer:** a) HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals
+
+*Explanation:* Based on the scenario and the information in the standard, the most likely impact on HealthGenic's ISMS certificate renewal is related to their oversight and management of information security risks.
+
+Option (a) states: **"HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals"**. While the scenario doesn't explicitly mention the frequency of management reviews (as per ISO/IEC 27001:2022, 9.3), the significant data privacy and integrity issues that occurred suggest a potential failure in the ISMS's effectiveness. Management reviews are intended to ensure the continuing suitability, adequacy, and effectiveness of the ISMS. If such a major incident occurred, it could indicate that risks were not adequately identified or treated during these reviews, potentially leading to a failure to maintain an effective ISMS. Therefore, a lack of effective management reviews could contribute to the inability to renew the certificate.
+
+Option (b) states: "HealthGenic will be able to renew the ISMS certificate, as they did not detect any information security incident in the past two years". This is incorrect because the scenario clearly describes a significant information security incident involving the modification of sensitive patient data, leading to incomplete and incorrect reports and a breach of privacy. An ISMS certification requires an ongoing commitment to protecting information, and a privacy breach of this nature would likely be considered a major issue.
+
+Option (c) states: "HealthGenic might not be able to renew the ISMS certificate, as the internal audit lasted longer than planned". The duration of an internal audit (as per ISO/IEC 27001:2022, 9.2) is not directly stated to be the cause of potential non-renewal in the provided scenario. While a prolonged audit might indicate underlying problems, the actual data breach and integrity issues are more direct reasons for potential issues with certification.
+
+Considering the significant impact of the data modification and privacy breach, it indicates a failure in HealthGenic's ability to safeguard information. While the scenario doesn't explicitly state that management reviews weren't conducted at planned intervals, the occurrence of such a serious incident suggests a potential deficiency in the overall management of the ISMS, which is a key focus of management reviews. Therefore, the most plausible reason, based on the given options and the scenario, is that HealthGenic's negligence in allowing this incident to occur could lead to them not being able to renew their ISMS certificate, potentially linked to ineffective management oversight which should be addressed through management reviews.
+
+Therefore, the most fitting answer is **a) HealthGenic might not be able to renew the ISMS certificate, as it has not conducted management reviews at planned intervals**. This option, while not directly stated in the scenario, implies a potential systemic failure in the ISMS management that could have contributed to the incident and subsequently affect certification renewal.
 
 ---
 
