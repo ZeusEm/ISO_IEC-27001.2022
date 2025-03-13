@@ -30,6 +30,8 @@
 - Slides
    - [Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
    - [Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+- Video Tutorials (Lead Implementer ONLY)
+  -  <a href="#S101">Section 1</a>
 
 ## Practice Tests
 
@@ -3104,6 +3106,19 @@ Let's look at why the other options are compliant:
 *   **b) TradeB selected only ISO/IEC 27001 controls deemed applicable to the company:** The sources emphasise that organisations do not need to implement all the controls listed in Annex A. The organisation should **select appropriate controls based on their risk assessment** and the specific needs of their information security management system. The SOA should then document which Annex A controls are applicable and implemented, and justify any exclusions.
 
 *   **c) The external experts selected security controls and drafted the Statement of Applicability:** While the ultimate responsibility for the ISMS lies with the top management, organisations may utilise external experts to assist with the implementation process, including risk assessment and control selection [paragraph before option a)]. The sources do not explicitly forbid external experts from being involved in these activities. However, it's crucial that the **controls selected are based on a proper risk assessment** conducted by the project team (which includes the experts) and that the SOA accurately reflects the outcomes of this process and is ultimately owned and approved by TradeB's management. The non-compliant part of the scenario is the *timing* of drafting the SOA, not necessarily who was involved in the drafting itself.
+
+---
+
+## PECB Official Lecture Videos
+
+### Section 1
+
+<div id="S101" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/Section+1 - 001.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 ---
 
