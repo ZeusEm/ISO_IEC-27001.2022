@@ -28,8 +28,12 @@
    - [Quizzes - Worksheet](PECB/Official%20Courseware/04_27001-2022FD_Quizzes%20Worksheet_V7.0.DOCX)
    - [Quizzes - Correction Key](PECB/Official%20Courseware/05_27001-2022FD_Quizzes%20Correction%20Key_V7.0.DOCX)
 - Slides
-   - [Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
-   - [Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Foundation - Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
+   - [Foundation - Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Lead Implementer - Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Lead Implementer - Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Lead Implementer - Day 03](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Lead Implementer - Day 04](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
 - Video Tutorials (Lead Implementer ONLY)
   -  <a href="#S1">Section 1</a>
   -  <a href="#S2">Section 2</a>
