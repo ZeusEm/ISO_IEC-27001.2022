@@ -34,6 +34,30 @@
   -  <a href="#S1">Section 1</a>
   -  <a href="#S2">Section 2</a>
   -  <a href="#S3">Section 3</a>
+  -  <a href="#S4">Section 4</a>
+  -  <a href="#S5">Section 5</a>
+  -  <a href="#S6">Section 6</a>
+  -  <a href="#S7">Section 7</a>
+  -  <a href="#S8">Section 8</a>
+  -  <a href="#S9">Section 9</a>
+  -  <a href="#S10">Section 10</a>
+  -  <a href="#S11">Section 11</a>
+  -  <a href="#S12">Section 12</a>
+  -  <a href="#S13">Section 13</a>
+  -  <a href="#S14">Section 14</a>
+  -  <a href="#S15">Section 15</a>
+  -  <a href="#S16">Section 16</a>
+  -  <a href="#S17">Section 17</a>
+  -  <a href="#S18">Section 18</a>
+  -  <a href="#S19">Section 19</a>
+  -  <a href="#S20">Section 20</a>
+  -  <a href="#S21">Section 21</a>
+  -  <a href="#S22">Section 22</a>
+  -  <a href="#S23">Section 23</a>
+  -  <a href="#S24">Section 24</a>
+  -  <a href="#S25">Section 25</a>
+  -  <a href="#S26">Section 26</a>
+  -  <a href="#S27">Section 27</a>
 
 ## Practice Tests
 
@@ -3117,28 +3141,7 @@ Let's look at why the other options are compliant:
 
 <div id="S1" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+1 - 001.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+1 - 002.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+1 - 003.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+1 - 004.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+1.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
@@ -3147,28 +3150,7 @@ Let's look at why the other options are compliant:
 
 <div id="S2" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+2 - 001.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+2 - 002.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+2 - 003.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div><br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+2 - 004.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+2.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
@@ -3177,35 +3159,405 @@ Let's look at why the other options are compliant:
 
 <div id="S3" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+3+Part+1 - 001.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+3+Part+1.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+3+Part+1 - 002.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+3+Part+2 - 1of2.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+3+Part+1 - 003.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+3+Part+2 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 4
+
+<div id="S4" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+4+Part+1.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+3+Part+1 - 004.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+4+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 5
+
+<div id="S5" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 6
+
+<div id="S6" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+6+Part+1 - 1of2.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
     <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-        <source src="videoTutorials/Section+3+Part+1 - 005.mp4" type="video/mp4">
+        <source src="videoTutorials/compressO-Section+6+Part+1 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+6+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 7
+
+<div id="S7" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+7 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+7 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 8
+
+<div id="S8" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+8 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+8 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 9
+
+<div id="S9" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+9.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 10
+
+<div id="S10" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+10+Part+1 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+10+Part+1 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+10+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 11
+
+<div id="S11" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+11+Part+1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+11+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 12
+
+<div id="S12" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+12+Part+1 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+12+Part+1 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+12+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 13
+
+<div id="S13" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+13 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+13 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 14
+
+<div id="S14" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+14 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+14 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 15
+
+<div id="S15" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+15.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 16
+
+<div id="S16" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+16+Part+1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+16+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+16+Part+3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+16+Part+4.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+16+Part+5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 17
+
+<div id="S17" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+17.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 18
+
+<div id="S18" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+18.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 19
+
+<div id="S19" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+19 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+19 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 20
+
+<div id="S20" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+20+Part+1 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+20+Part+1 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+20+Part+2 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+20+Part+2 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 21
+
+<div id="S21" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+21.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 22
+
+<div id="S22" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+22+Part+1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+22+Part+2 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+22+Part+2 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 23
+
+<div id="S23" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+23.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 24
+
+<div id="S24" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+24 - 1of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+24 - 2of2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 25
+
+<div id="S25" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+25.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 26
+
+<div id="S26" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+26+Part+1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+26+Part+2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div><br>
+
+### Section 27
+
+<div id="S27" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+    <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+        <source src="videoTutorials/compressO-Section+27.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div><br>
