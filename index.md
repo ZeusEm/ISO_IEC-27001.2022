@@ -30,7 +30,7 @@
 - Slides
    - [Foundation - Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%201.pdf)
    - [Foundation - Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
-   - [Lead Implementer - Day 01](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
+   - [Lead Implementer - Day 01](PECB/Official%20Courseware/ISO%2027001%20Lead%20Implementer%20EN%20v.10.0%20-%20Day%201.pdf)
    - [Lead Implementer - Day 02](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
    - [Lead Implementer - Day 03](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
    - [Lead Implementer - Day 04](PECB/Official%20Courseware/ISO-IEC%2027001-2022%20Foundation%20EN%20v.7.0%20-%20Day%202.pdf)
